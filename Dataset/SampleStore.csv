@@ -1,0 +1,1001 @@
+Invoice ID,Customer type,Gender,Country,City,State,Postal Code,Product line,Quantity,Tax 5%,Sales,Ship Mode,Date,Payment_Type,CRating
+750-67-8428,Member,Female,United States,Henderson,Kentucky,42420,Health and beauty,7,26.1415,548.9715,Second Class,01/05/2019,Ewallet,9.10
+226-31-3081,Normal,Female,United States,Henderson,Kentucky,42420,Electronic accessories,5,3.82,80.22,Second Class,03/08/2019,Cash,9.60
+631-41-3108,Normal,Male,United States,Los Angeles,California,90036,Home and lifestyle,7,16.2155,340.5255,Second Class,03/03/2019,Credit card,7.40
+123-19-1176,Member,Male,United States,Fort Lauderdale,Florida,33311,Health and beauty,8,23.288,489.048,Standard Class,04/03/2019,Ewallet,8.40
+373-73-7910,Normal,Male,United States,Fort Lauderdale,Florida,33311,Sports and travel,7,30.2085,634.3785,Standard Class,02/08/2019,Ewallet,5.30
+699-14-3026,Normal,Male,United States,Los Angeles,California,90032,Electronic accessories,7,29.8865,627.6165,Standard Class,03/08/2019,Ewallet,4.10
+355-53-5943,Member,Female,United States,Los Angeles,California,90032,Electronic accessories,6,20.652,433.692,Standard Class,04/08/2019,Ewallet,
+315-22-5665,Normal,Female,United States,Los Angeles,California,90032,Home and lifestyle,10,36.78,772.38,Standard Class,05/08/2019,Ewallet,8.00
+665-32-9167,Member,Female,United States,Los Angeles,California,90032,Health and beauty,2,3.626,76.146,Standard Class,01/10/2019,Credit card,7.20
+692-92-5582,Member,Female,United States,Los Angeles,California,90032,Food and beverages,3,8.226,172.746,Standard Class,02/10/2019,Credit card,5.90
+351-62-0822,Member,Female,United States,Los Angeles,California,90032,Fashion accessories,4,2.896,60.816,Standard Class,03/10/2019,Ewallet,4.50
+529-56-3974,Member,Female,United States,Los Angeles,California,90032,Electronic accessories,4,5.102,107.142,Standard Class,04/10/2019,Cash,6.80
+365-64-0515,Normal,Female,United States,Concord,North Carolina,28027,Electronic accessories,5,11.7375,246.4875,Standard Class,05/10/2019,Ewallet,7.10
+252-56-2699,Normal,Female,United States,Seattle,Washington,98103,Food and beverages,10,21.595,453.495,Standard Class,06/10/2019,Ewallet,8.20
+829-34-3910,Normal,Female,United States,Fort Worth,Texas,76106,Health and beauty,10,35.69,749.49,Standard Class,07/10/2019,Cash,5.70
+299-46-1805,Member,Female,United States,Fort Worth,Texas,76106,Sports and travel,6,28.116,590.436,Standard Class,08/10/2019,Cash,4.50
+656-95-9349,Member,Female,United States,Madison,Wisconsin,53711,Health and beauty,7,24.1255,506.6355,Standard Class,09/10/2019,Cash,4.60
+765-26-6951,Normal,Female,United States,West Jordan,Utah,84084,Sports and travel,6,21.783,457.443,Second Class,10/10/2019,Cash,6.90
+329-62-1586,Normal,Female,United States,San Francisco,California,94109,Food and beverages,3,8.2005,172.2105,Second Class,11/10/2019,Cash,8.60
+319-50-3348,Normal,Female,United States,San Francisco,California,94109,Home and lifestyle,2,4.03,84.63,Second Class,12/10/2019,Ewallet,4.40
+300-71-4605,Member,Female,United States,San Francisco,California,94109,Electronic accessories,5,21.51,451.71,Second Class,13/10/2019,Ewallet,
+371-85-5789,Normal,Female,United States,Fremont,Nebraska,68025,Health and beauty,3,13.197,277.137,Standard Class,14/10/2019,Ewallet,5.10
+273-16-6619,Normal,Female,United States,Fremont,Nebraska,68025,Home and lifestyle,2,3.32,69.72,Standard Class,15/10/2019,Credit card,4.40
+636-48-8204,Normal,Female,United States,Philadelphia,Pennsylvania,19140,Electronic accessories,5,8.64,181.44,Second Class,16/10/2019,Ewallet,9.90
+549-59-1358,Member,Female,United States,Orem,Utah,84057,Sports and travel,3,13.2945,279.1845,Standard Class,03/02/2019,Ewallet,6.00
+227-03-5010,Member,,United States,Los Angeles,California,90049,Home and lifestyle,8,21.036,441.756,Second Class,04/02/2019,Credit card,8.50
+649-29-6775,Normal,,United States,Los Angeles,California,90049,Fashion accessories,1,1.676,35.196,Second Class,05/02/2019,Cash,6.70
+189-17-4241,Normal,,United States,Philadelphia,Pennsylvania,19140,Fashion accessories,2,8.767,184.107,Standard Class,06/02/2019,Credit card,7.70
+145-94-9061,Normal,,United States,Philadelphia,Pennsylvania,19140,Food and beverages,5,22.09,463.89,Standard Class,07/02/2019,Cash,9.60
+848-62-7243,Normal,,United States,Philadelphia,Pennsylvania,19140,Health and beauty,9,11.2005,235.2105,Standard Class,08/02/2019,Cash,7.40
+871-79-8483,Normal,,United States,Philadelphia,Pennsylvania,19140,Fashion accessories,5,23.5325,494.1825,Standard Class,09/02/2019,Credit card,4.80
+149-71-6266,Member,,United States,Philadelphia,Pennsylvania,19140,Sports and travel,9,35.1315,737.7615,Standard Class,10/02/2019,Cash,4.50
+640-49-2076,Normal,,United States,Philadelphia,Pennsylvania,19140,Sports and travel,8,33.512,703.752,Standard Class,11/02/2019,Cash,5.10
+595-11-5460,Normal,,United States,Philadelphia,Pennsylvania,19140,Health and beauty,2,9.658,202.818,Standard Class,12/02/2019,Credit card,5.10
+183-56-6882,Member,,United States,Houston,Texas,77095,Food and beverages,4,19.884,417.564,Second Class,13/02/2019,Ewallet,7.50
+232-16-2483,Member,,United States,Richardson,Texas,75080,Sports and travel,1,3.406,71.526,First Class,14/02/2019,Ewallet,6.80
+129-29-8530,Member,,United States,Richardson,Texas,75080,Sports and travel,5,15.655,328.755,First Class,15/02/2019,Ewallet,7.00
+272-65-1806,Normal,,United States,Houston,Texas,77041,Electronic accessories,9,27.396,575.316,Standard Class,16/02/2019,Ewallet,4.70
+333-73-7901,Normal,,United States,Houston,Texas,77041,Health and beauty,8,21.968,461.328,Standard Class,17/02/2019,Ewallet,7.60
+777-82-7220,Member,,United States,Houston,Texas,77041,Home and lifestyle,8,12.048,253.008,Standard Class,18/02/2019,Cash,7.70
+280-35-5823,Member,,United States,Houston,Texas,77041,Home and lifestyle,1,4.336,91.056,Standard Class,19/02/2019,Ewallet,7.90
+554-53-8700,Member,,United States,Naperville,Illinois,60540,Home and lifestyle,2,5.611,117.831,Standard Class,20/02/2019,Cash,6.30
+354-25-5821,Member,,United States,Los Angeles,California,90049,Sports and travel,6,20.736,435.456,Standard Class,21/02/2019,Cash,5.60
+228-96-1411,Member,,United States,Melbourne,Florida,32935,Food and beverages,8,39.48,829.08,Standard Class,22/02/2019,Cash,7.60
+617-15-4209,Member,,United States,Eagan,Minnesota,55122,Health and beauty,2,1.537,32.277,First Class,23/02/2019,Cash,7.20
+132-32-9879,Member,,United States,Eagan,Minnesota,55122,Electronic accessories,4,18.792,394.632,First Class,24/02/2019,Cash,9.50
+370-41-7321,Member,,United States,Westland,Michigan,48185,Health and beauty,9,25.5105,535.7205,Second Class,25/02/2019,Credit card,8.40
+727-46-3608,Member,,United States,Dover,Delaware,19901,Food and beverages,9,9.0045,189.0945,Standard Class,26/02/2019,Ewallet,4.10
+669-54-1719,Member,,United States,Dover,Delaware,19901,Electronic accessories,6,5.679,119.259,Standard Class,27/02/2019,Credit card,8.10
+574-22-5561,Member,,United States,New Albany,Indiana,47150,Fashion accessories,10,41.315,867.615,Standard Class,28/02/2019,Ewallet,7.90
+326-78-5178,Member,,United States,New Albany,Indiana,47150,Food and beverages,7,31.99,671.79,Standard Class,01/03/2019,Cash,9.50
+162-48-8011,Member,,United States,New Albany,Indiana,47150,Food and beverages,5,11.1475,234.0975,Standard Class,02/03/2019,Cash,8.50
+616-24-2851,Member,,United States,New Albany,Indiana,47150,Fashion accessories,4,3.574,75.054,Standard Class,03/03/2019,Ewallet,6.50
+778-71-5554,Member,,United States,New York City,New York,10024,Fashion accessories,1,0.7715,16.2015,Standard Class,04/03/2019,Credit card,6.10
+242-55-6721,Normal,,United States,New York City,New York,10024,Home and lifestyle,2,1.616,33.936,Standard Class,05/03/2019,Ewallet,6.50
+399-46-5918,Normal,,United States,Troy,New York,12180,Electronic accessories,8,34.392,722.232,First Class,06/03/2019,Cash,
+106-35-6779,Member,,United States,Troy,New York,12180,Home and lifestyle,2,4.434,93.114,First Class,07/03/2019,Cash,
+635-40-6220,Normal,,United States,Troy,New York,12180,Health and beauty,8,35.84,752.64,First Class,08/03/2019,Ewallet,
+817-48-8732,Member,,United States,Troy,New York,12180,Home and lifestyle,10,36.175,759.675,First Class,09/03/2019,Cash,
+120-06-4233,Normal,,United States,Troy,New York,12180,Electronic accessories,6,9.183,192.843,First Class,10/03/2019,Cash,
+285-68-5083,Member,,United States,Troy,New York,12180,Sports and travel,3,3.711,77.931,First Class,11/03/2019,Credit card,10.00
+803-83-5989,Normal,,United States,Troy,New York,12180,Home and lifestyle,6,16.719,351.099,First Class,12/03/2019,Ewallet,7.00
+347-34-2234,Member,,United States,Los Angeles,California,90004,Sports and travel,9,24.7815,520.4115,Standard Class,13/03/2019,Ewallet,10.00
+199-75-8169,Member,,United States,Los Angeles,California,90004,Sports and travel,10,7.905,166.005,Standard Class,14/03/2019,Credit card,8.60
+853-23-2453,Member,Male,United States,Los Angeles,California,90004,Health and beauty,4,15.148,318.108,Standard Class,15/03/2019,Cash,7.60
+877-22-3308,Member,Female,United States,Los Angeles,California,90004,Health and beauty,10,7.935,166.635,Standard Class,16/03/2019,Cash,5.80
+838-78-4295,Normal,Male,United States,Chicago,Illinois,60610,Health and beauty,2,3.347,70.287,Standard Class,17/03/2019,Ewallet,6.70
+109-28-2512,Member,Female,United States,Gilbert,Arizona,85234,Fashion accessories,6,29.283,614.943,Standard Class,18/03/2019,Ewallet,9.90
+232-11-3025,Normal,Male,United States,Gilbert,Arizona,85234,Sports and travel,10,39.385,827.085,Standard Class,19/03/2019,Cash,6.40
+382-03-4532,Member,Male,United States,Springfield,Virginia,22153,Health and beauty,1,0.9165,19.2465,First Class,20/03/2019,Cash,4.30
+393-65-2792,Normal,Female,United States,New York City,New York,10009,Food and beverages,10,44.74,939.54,Standard Class,21/03/2019,Credit card,9.60
+796-12-2025,Normal,Female,United States,Jackson,Michigan,49201,Fashion accessories,10,31.06,652.26,Second Class,22/03/2019,Cash,5.90
+510-95-6347,Member,Female,United States,Memphis,Tennessee,38109,Food and beverages,3,7.278,152.838,Standard Class,23/03/2019,Ewallet,4.00
+841-35-6630,Normal,Female,United States,Memphis,Tennessee,38109,Electronic accessories,6,22.773,478.233,Standard Class,24/03/2019,Cash,8.70
+287-21-9091,Normal,Male,United States,Memphis,Tennessee,38109,Home and lifestyle,9,33.6015,705.6315,Standard Class,25/03/2019,Ewallet,9.40
+732-94-0499,Normal,Male,United States,Houston,Texas,77041,Electronic accessories,10,20.825,437.325,First Class,26/03/2019,Credit card,5.40
+263-10-3913,Member,Female,United States,Houston,Texas,77041,Fashion accessories,9,22.068,463.428,First Class,27/03/2019,Credit card,8.60
+381-20-0914,Member,Male,United States,Houston,Texas,77041,Fashion accessories,9,9.0045,189.0945,First Class,28/03/2019,Credit card,5.70
+829-49-1914,Member,Female,United States,Houston,Texas,77070,Food and beverages,10,39.155,822.255,Second Class,29/03/2019,Ewallet,6.60
+756-01-7507,Normal,Male,United States,Decatur,Alabama,35601,Health and beauty,5,5.095,106.995,First Class,30/03/2019,Cash,6.00
+870-72-4431,Normal,Female,United States,Decatur,Alabama,35601,Health and beauty,6,29.757,624.897,First Class,31/03/2019,Credit card,5.50
+847-38-7188,Normal,Female,United States,San Francisco,California,94122,Food and beverages,3,14.502,304.542,Standard Class,01/04/2019,Ewallet,6.40
+480-63-2856,Normal,Female,United States,San Francisco,California,94122,Food and beverages,8,7.7,161.7,Standard Class,02/04/2019,Ewallet,6.60
+787-56-0757,Member,,United States,Durham,North Carolina,27707,Food and beverages,4,16.072,337.512,Standard Class,03/04/2019,Credit card,8.30
+360-39-5055,Member,,United States,Chicago,Illinois,60623,Sports and travel,5,12.2275,256.7775,First Class,04/04/2019,Cash,6.60
+730-50-9884,Normal,,United States,Columbia,South Carolina,29203,Sports and travel,7,29.071,610.491,Second Class,05/04/2019,Ewallet,4.00
+362-58-8315,Normal,,United States,Rochester,Minnesota,55901,Fashion accessories,5,19.13,401.73,Standard Class,06/04/2019,Cash,9.90
+633-44-8566,Member,,United States,Rochester,Minnesota,55901,Food and beverages,7,17.283,362.943,Standard Class,07/04/2019,Credit card,7.30
+504-35-8843,Normal,,United States,Houston,Texas,77095,Sports and travel,1,2.1235,44.5935,Second Class,08/04/2019,Cash,5.70
+318-68-5053,Normal,,United States,Los Angeles,California,90036,Health and beauty,6,23.097,485.037,Standard Class,09/04/2019,Cash,6.10
+565-80-5980,Member,,United States,Los Angeles,California,90036,Home and lifestyle,4,9.476,198.996,Standard Class,10/04/2019,Cash,7.10
+225-32-0908,Normal,,United States,Los Angeles,California,90036,Sports and travel,10,22.43,471.03,Standard Class,11/04/2019,Ewallet,8.20
+873-51-0671,Member,,United States,Minneapolis,Minnesota,55407,Sports and travel,7,7.693,161.553,Second Class,12/04/2019,Ewallet,5.10
+152-08-9985,Member,,United States,Minneapolis,Minnesota,55407,Health and beauty,9,28.962,608.202,Second Class,13/04/2019,Credit card,8.60
+512-91-0811,Normal,,United States,Minneapolis,Minnesota,55407,Health and beauty,1,4.4875,94.2375,Second Class,14/04/2019,Credit card,6.60
+594-34-4444,Normal,,United States,Portland,Oregon,97206,Electronic accessories,1,4.858,102.018,Standard Class,15/04/2019,Ewallet,7.20
+766-85-7061,Normal,,United States,New York City,New York,10009,Health and beauty,10,43.935,922.635,Second Class,16/04/2019,Ewallet,5.10
+871-39-9221,Normal,,United States,San Francisco,California,94122,Electronic accessories,6,3.735,78.435,First Class,17/04/2019,Cash,4.10
+865-92-6136,Normal,,United States,Saint Paul,Minnesota,55106,Food and beverages,3,7.9125,166.1625,Standard Class,18/04/2019,Ewallet,9.30
+733-01-9107,Normal,,United States,Chicago,Illinois,60610,Home and lifestyle,6,24.81,521.01,Standard Class,19/04/2019,Cash,7.40
+163-56-7055,Member,,United States,Chicago,Illinois,60610,Fashion accessories,1,2.4355,51.1455,Standard Class,20/04/2019,Cash,
+189-98-2939,Normal,,United States,Chicago,Illinois,60610,Fashion accessories,9,35.3475,742.2975,Standard Class,21/04/2019,Cash,7.20
+551-21-3069,Normal,,United States,Rochester,Minnesota,55901,Electronic accessories,9,10.3815,218.0115,Second Class,22/04/2019,Cash,4.90
+212-62-1842,Normal,,United States,Aurora,Colorado,80013,Food and beverages,6,17.478,367.038,Standard Class,23/04/2019,Cash,9.90
+716-39-1409,Normal,,United States,Aurora,Colorado,80013,Health and beauty,7,10.6225,223.0725,Standard Class,24/04/2019,Cash,8.00
+704-48-3927,Member,,United States,Aurora,Colorado,80013,Electronic accessories,10,44.335,931.035,Standard Class,25/04/2019,Ewallet,7.30
+628-34-3388,Normal,,United States,Charlotte,North Carolina,28205,Fashion accessories,6,8.214,172.494,Standard Class,26/04/2019,Credit card,7.90
+630-74-5166,Normal,,United States,Charlotte,North Carolina,28205,Sports and travel,6,18.639,391.419,Standard Class,27/04/2019,Cash,7.40
+588-01-7461,Normal,,United States,Charlotte,North Carolina,28205,Food and beverages,9,15.291,321.111,Standard Class,28/04/2019,Cash,4.20
+861-77-0145,Member,,United States,Orland Park,Illinois,60462,Electronic accessories,10,40.985,860.685,Standard Class,29/04/2019,Cash,9.20
+479-26-8945,Member,,United States,New York City,New York,10035,Sports and travel,2,1.649,34.629,Standard Class,30/04/2019,Ewallet,4.60
+210-67-5886,Member,,United States,Urbandale,Iowa,50322,Health and beauty,3,14.7315,309.3615,Standard Class,01/05/2019,Credit card,7.80
+227-78-1148,Normal,,United States,Urbandale,Iowa,50322,Fashion accessories,7,25.494,535.374,Standard Class,02/05/2019,Cash,8.40
+645-44-1170,Member,,United States,Columbus,Ohio,43229,Home and lifestyle,9,26.1315,548.7615,Second Class,03/05/2019,Ewallet,4.30
+237-01-6122,Member,,United States,Columbus,Ohio,43229,Home and lifestyle,9,36.3555,763.4655,Second Class,04/05/2019,Credit card,9.50
+225-98-1496,Normal,,United States,Columbus,Ohio,43229,Fashion accessories,3,4.053,85.113,Second Class,05/05/2019,Credit card,7.10
+291-32-1427,Member,,United States,Columbus,Ohio,43229,Fashion accessories,5,5.485,115.185,Second Class,06/05/2019,Ewallet,5.30
+659-65-8956,Member,,United States,Seattle,Washington,98103,Fashion accessories,1,2.568,53.928,Standard Class,07/05/2019,Ewallet,5.20
+642-32-2990,Normal,,United States,Bristol,Tennessee,37620,Food and beverages,10,5.48,115.08,Standard Class,08/05/2019,Ewallet,6.00
+378-24-2715,Normal,,United States,Wilmington,Delaware,19805,Home and lifestyle,2,5.344,112.224,First Class,09/05/2019,Ewallet,4.10
+638-60-7125,Normal,,United States,Wilmington,Delaware,19805,Electronic accessories,8,39.824,836.304,First Class,10/05/2019,Credit card,5.20
+659-36-1684,Member,,United States,Wilmington,Delaware,19805,Sports and travel,7,19.992,419.832,First Class,11/05/2019,Credit card,6.50
+219-22-9386,Member,,United States,Wilmington,Delaware,19805,Sports and travel,9,44.982,944.622,First Class,12/05/2019,Credit card,
+336-78-2147,Member,,United States,Wilmington,Delaware,19805,Home and lifestyle,8,25.564,536.844,First Class,13/05/2019,Credit card,4.60
+268-27-6179,Member,,United States,Houston,Texas,77041,Fashion accessories,8,22.588,474.348,Second Class,14/05/2019,Ewallet,7.30
+668-90-8900,Normal,,United States,Bloomington,Illinois,61701,Home and lifestyle,7,32.7915,688.6215,Standard Class,15/05/2019,Credit card,4.50
+870-54-3162,Normal,,United States,Phoenix,Arizona,85023,Sports and travel,5,8.0625,169.3125,Standard Class,16/05/2019,Cash,9.00
+189-08-9157,Normal,,United States,Phoenix,Arizona,85023,Fashion accessories,9,14.2785,299.8485,Standard Class,17/05/2019,Credit card,5.90
+663-86-9076,Member,,United States,Los Angeles,California,90004,Food and beverages,8,27.416,575.736,Second Class,18/05/2019,Ewallet,8.50
+549-84-7482,Normal,,United States,Los Angeles,California,90004,Sports and travel,9,40.626,853.146,Second Class,19/05/2019,Ewallet,7.20
+191-10-6171,Normal,,United States,Columbus,Ohio,43229,Fashion accessories,7,13.867,291.207,First Class,20/05/2019,Cash,7.50
+802-70-5316,Member,,United States,Columbus,Ohio,43229,Sports and travel,6,27.639,580.419,First Class,21/05/2019,Cash,8.30
+695-51-0018,Normal,,United States,Columbus,Ohio,43229,Sports and travel,4,6.968,146.328,First Class,22/05/2019,Cash,7.40
+590-83-4591,Member,,United States,Roseville,California,95661,Electronic accessories,6,26.235,550.935,Standard Class,23/05/2019,Credit card,8.80
+483-71-1164,Normal,,United States,Roseville,California,95661,Health and beauty,6,24.39,512.19,Standard Class,24/05/2019,Ewallet,5.30
+597-78-7908,Normal,,United States,Roseville,California,95661,Fashion accessories,3,13.533,284.193,Standard Class,25/05/2019,Cash,6.20
+700-81-1757,Normal,,United States,Roseville,California,95661,Electronic accessories,5,6.5775,138.1275,Standard Class,26/05/2019,Credit card,8.80
+354-39-5160,Member,,United States,Roseville,California,95661,Home and lifestyle,6,10.326,216.846,Standard Class,27/05/2019,Cash,9.80
+241-72-9525,Normal,,United States,Roseville,California,95661,Sports and travel,10,25.955,545.055,Standard Class,28/05/2019,Cash,8.20
+575-30-8091,Normal,,United States,Roseville,California,95661,Sports and travel,8,29,609,Standard Class,29/05/2019,Ewallet,9.20
+731-81-9469,Member,Female,United States,Philadelphia,Pennsylvania,19140,Sports and travel,10,44.9,942.9,Second Class,30/05/2019,Credit card,5.40
+280-17-4359,Member,Female,United States,San Francisco,California,94122,Health and beauty,10,45.25,950.25,Standard Class,31/05/2019,Cash,8.10
+338-65-2210,Member,Female,United States,San Francisco,California,94122,Health and beauty,10,34.3,720.3,Standard Class,01/06/2019,Cash,9.10
+488-25-4221,Member,Female,United States,San Francisco,California,94122,Food and beverages,1,1.5205,31.9305,Standard Class,02/06/2019,Credit card,8.40
+239-10-7476,Normal,Female,United States,Independence,Missouri,64055,Home and lifestyle,6,23.385,491.085,Standard Class,03/06/2019,Ewallet,
+458-41-1477,Normal,Female,United States,Pasadena,California,91104,Health and beauty,6,13.878,291.438,Standard Class,04/06/2019,Credit card,9.50
+685-64-1609,Member,Female,United States,Newark,Ohio,43055,Fashion accessories,10,15.07,316.47,Standard Class,05/06/2019,Ewallet,9.20
+568-90-5112,Normal,Female,United States,Franklin,Wisconsin,53132,Health and beauty,4,13.228,277.788,Standard Class,06/06/2019,Ewallet,5.60
+262-47-2794,Member,Female,United States,Franklin,Wisconsin,53132,Home and lifestyle,8,28.744,603.624,Standard Class,07/06/2019,Ewallet,6.20
+238-49-0436,Normal,Female,United States,Franklin,Wisconsin,53132,Health and beauty,8,12.984,272.664,Standard Class,08/06/2019,Ewallet,4.90
+608-96-3517,Member,Female,United States,Franklin,Wisconsin,53132,Fashion accessories,4,18.308,384.468,Standard Class,09/06/2019,Ewallet,4.80
+584-86-7256,Member,Female,United States,Scottsdale,Arizona,85254,Sports and travel,7,12.096,254.016,First Class,10/06/2019,Ewallet,7.30
+746-94-0204,Normal,Female,United States,Scottsdale,Arizona,85254,Fashion accessories,9,37.458,786.618,First Class,11/06/2019,Ewallet,7.40
+214-17-6927,Normal,Female,United States,San Jose,California,95123,Food and beverages,6,4.944,103.824,First Class,12/06/2019,Ewallet,9.90
+400-89-4171,Normal,Female,United States,San Jose,California,95123,Sports and travel,8,32.388,680.148,First Class,13/06/2019,Cash,9.30
+782-95-9291,Member,Female,United States,San Jose,California,95123,Food and beverages,5,23.0725,484.5225,First Class,14/06/2019,Credit card,9.00
+279-74-2924,Member,Female,United States,Seattle,Washington,98105,Electronic accessories,1,3.6085,75.7785,Standard Class,15/06/2019,Cash,6.10
+307-85-2293,Normal,Female,United States,Seattle,Washington,98115,Home and lifestyle,5,12.57,263.97,Second Class,16/06/2019,Ewallet,9.70
+743-04-1105,Member,Female,United States,Edmond,Oklahoma,73034,Health and beauty,9,43.749,918.729,Standard Class,17/06/2019,Ewallet,6.00
+423-57-2993,Normal,Female,United States,Edmond,Oklahoma,73034,Sports and travel,6,28.017,588.357,Standard Class,18/06/2019,Ewallet,10.00
+894-41-5205,Normal,Female,United States,Los Angeles,California,90045,Food and beverages,8,17.272,362.712,First Class,19/06/2019,Credit card,8.30
+275-28-0149,Normal,Female,United States,Philadelphia,Pennsylvania,19134,Sports and travel,1,3.1845,66.8745,Second Class,20/06/2019,Cash,6.00
+101-17-6199,Normal,Female,United States,Carlsbad,New Mexico,88220,Food and beverages,7,16.0265,336.5565,Standard Class,21/06/2019,Credit card,7.00
+423-80-0988,Normal,Female,United States,Seattle,Washington,98115,Sports and travel,2,7.64,160.44,Standard Class,22/06/2019,Ewallet,6.50
+548-46-9322,Normal,Male,United States,San Antonio,Texas,78207,Food and beverages,10,19.95,418.95,Standard Class,23/06/2019,Credit card,5.90
+505-02-0892,Member,Male,United States,San Antonio,Texas,78207,Health and beauty,8,17.028,357.588,Standard Class,24/06/2019,Ewallet,5.60
+234-65-2137,Normal,Male,United States,San Antonio,Texas,78207,Home and lifestyle,10,47.79,1003.59,Standard Class,25/06/2019,Cash,
+687-47-8271,Normal,Male,United States,San Antonio,Texas,78207,Fashion accessories,10,49.49,1039.29,Standard Class,26/06/2019,Credit card,8.70
+796-32-9050,Normal,Male,United States,San Antonio,Texas,78207,Food and beverages,6,15.384,323.064,Standard Class,27/06/2019,Cash,6.50
+105-31-1824,Member,Male,United States,San Antonio,Texas,78207,Sports and travel,7,24.332,510.972,Standard Class,28/06/2019,Credit card,8.50
+249-42-3782,Normal,Male,United States,San Antonio,Texas,78207,Health and beauty,5,17.5025,367.5525,Standard Class,29/06/2019,Ewallet,5.50
+316-55-4634,Member,Male,United States,Los Angeles,California,90004,Food and beverages,5,20.0125,420.2625,Standard Class,30/06/2019,Credit card,9.40
+733-33-4967,Normal,Male,United States,Los Angeles,California,90004,Electronic accessories,8,8.34,175.14,Standard Class,01/07/2019,Cash,6.30
+608-27-6295,Member,Male,United States,Los Angeles,California,90004,Electronic accessories,6,15.867,333.207,Standard Class,02/07/2019,Credit card,9.80
+414-12-7047,Normal,Male,United States,Chicago,Illinois,60623,Food and beverages,8,7.916,166.236,Standard Class,03/07/2019,Ewallet,8.70
+827-26-2100,Member,Male,United States,Chicago,Illinois,60623,Home and lifestyle,9,15.228,319.788,Standard Class,04/07/2019,Ewallet,8.80
+175-54-2529,Member,Male,United States,Houston,Texas,77036,Food and beverages,8,8.868,186.228,Second Class,05/07/2019,Credit card,9.60
+139-52-2867,Normal,Female,United States,Newark,Ohio,43055,Fashion accessories,7,7.8785,165.4485,Second Class,06/07/2019,Credit card,4.80
+407-63-8975,Normal,Male,United States,Newark,Ohio,43055,Food and beverages,6,22.164,465.444,Second Class,07/07/2019,Ewallet,4.40
+342-65-4817,Member,Male,United States,New York City,New York,10009,Health and beauty,3,13.02,273.42,Standard Class,08/07/2019,Ewallet,9.90
+130-98-8941,Normal,Male,United States,Decatur,Illinois,62521,Fashion accessories,7,22.491,472.311,Second Class,09/07/2019,Cash,5.70
+434-83-9547,Member,Male,United States,Decatur,Illinois,62521,Food and beverages,8,15.388,323.148,Second Class,10/07/2019,Cash,7.70
+851-28-6367,Member,Male,United States,Monroe,Louisiana,71203,Sports and travel,10,7.75,162.75,Second Class,11/07/2019,Ewallet,8.00
+824-88-3614,Normal,Male,United States,Monroe,Louisiana,71203,Health and beauty,8,13.724,288.204,Second Class,12/07/2019,Ewallet,5.70
+586-25-0848,Normal,Female,United States,Monroe,Louisiana,71203,Sports and travel,7,4.319,90.699,Second Class,13/07/2019,Credit card,6.70
+895-66-0685,Member,Male,United States,Fairfield,Connecticut,6824,Food and beverages,3,2.712,56.952,Standard Class,14/07/2019,Ewallet,8.00
+305-14-0245,Member,Female,United States,Los Angeles,California,90032,Home and lifestyle,8,37.796,793.716,Standard Class,15/07/2019,Ewallet,7.50
+732-04-5373,Member,Male,United States,Grand Prairie,Texas,75051,Home and lifestyle,4,9.294,195.174,Standard Class,16/07/2019,Cash,7.00
+400-60-7251,Normal,Male,United States,Grand Prairie,Texas,75051,Home and lifestyle,1,3.7035,77.7735,Standard Class,17/07/2019,Ewallet,
+593-65-1552,Normal,Female,United States,New York City,New York,10035,Home and lifestyle,4,13.962,293.202,First Class,18/07/2019,Credit card,5.90
+284-34-9626,Normal,Female,United States,New York City,New York,10035,Home and lifestyle,3,11.556,242.676,First Class,19/07/2019,Credit card,7.20
+437-58-8131,Normal,Female,United States,New York City,New York,10035,Fashion accessories,2,7.352,154.392,First Class,20/07/2019,Ewallet,4.60
+286-43-6208,Normal,Female,United States,New York City,New York,10035,Food and beverages,9,39.51,829.71,First Class,21/07/2019,Cash,9.20
+641-43-2399,Normal,Male,United States,New York City,New York,10035,Home and lifestyle,4,5.11,107.31,First Class,22/07/2019,Ewallet,5.70
+831-07-6050,Normal,Male,United States,Redlands,California,92374,Electronic accessories,5,8.1775,171.7275,Standard Class,23/07/2019,Credit card,9.90
+556-86-3144,Member,Female,United States,Hamilton,Ohio,45011,Fashion accessories,1,3.7145,78.0045,Standard Class,24/07/2019,Cash,5.00
+848-24-9445,Member,Male,United States,Hamilton,Ohio,45011,Health and beauty,2,4.37,91.77,Standard Class,25/07/2019,Cash,4.90
+856-22-8149,Normal,Female,United States,Westfield,New Jersey,7090,Home and lifestyle,1,1.2645,26.5545,Standard Class,26/07/2019,Ewallet,6.10
+699-01-4164,Normal,Male,United States,Philadelphia,Pennsylvania,19120,Health and beauty,4,8.3,174.3,Standard Class,27/07/2019,Credit card,8.20
+420-11-4919,Member,Female,United States,Philadelphia,Pennsylvania,19120,Food and beverages,5,17.8475,374.7975,Standard Class,28/07/2019,Credit card,5.50
+606-80-4905,Member,Female,United States,Akron,Ohio,44312,Sports and travel,6,5.745,120.645,Standard Class,29/07/2019,Credit card,6.80
+542-41-0513,Member,Female,United States,Denver,Colorado,80219,Electronic accessories,4,11.498,241.458,First Class,30/07/2019,Cash,6.60
+426-39-2418,Normal,Male,United States,Denver,Colorado,80219,Electronic accessories,7,21.4935,451.3635,First Class,31/07/2019,Cash,9.80
+875-46-5808,Member,Male,United States,Dallas,Texas,75220,Health and beauty,10,12.95,271.95,Second Class,01/08/2019,Ewallet,8.70
+394-43-4238,Member,Male,United States,Franklin,Tennessee,37064,Home and lifestyle,5,4.4425,93.2925,Standard Class,02/08/2019,Credit card,5.40
+749-24-1565,Normal,Female,United States,Whittier,California,90604,Health and beauty,9,10.3635,217.6335,Standard Class,03/08/2019,Ewallet,7.90
+672-51-8681,Member,Female,United States,Saginaw,Michigan,48601,Electronic accessories,9,29.9925,629.8425,Standard Class,04/08/2019,Credit card,9.70
+263-87-5680,Member,Female,United States,Saginaw,Michigan,48601,Home and lifestyle,10,14.265,299.565,Standard Class,05/08/2019,Ewallet,7.80
+573-58-9734,Normal,Female,United States,Saginaw,Michigan,48601,Fashion accessories,3,4.5555,95.6655,Standard Class,06/08/2019,Ewallet,5.10
+817-69-8206,Normal,Female,United States,Saginaw,Michigan,48601,Electronic accessories,9,44.8785,942.4485,Standard Class,07/08/2019,Credit card,6.50
+888-02-0338,Normal,,United States,Saginaw,Michigan,48601,Electronic accessories,9,11.8035,247.8735,Standard Class,08/08/2019,Ewallet,
+677-11-0152,Normal,,United States,Dallas,Texas,75220,Food and beverages,9,41.967,881.307,Second Class,09/08/2019,Cash,8.80
+142-63-6033,Normal,,United States,Medina,Ohio,44256,Home and lifestyle,5,23.09,484.89,Standard Class,10/08/2019,Ewallet,4.90
+656-16-1063,Normal,,United States,Medina,Ohio,44256,Sports and travel,3,6.963,146.223,Standard Class,11/08/2019,Credit card,4.40
+891-58-8335,Member,,United States,Medina,Ohio,44256,Sports and travel,7,10.3635,217.6335,Standard Class,12/08/2019,Cash,6.50
+802-43-8934,Normal,,United States,Medina,Ohio,44256,Home and lifestyle,1,0.914,19.194,Standard Class,13/08/2019,Credit card,8.30
+560-30-5617,Normal,Female,United States,Medina,Ohio,44256,Sports and travel,5,6.1925,130.0425,Standard Class,14/08/2019,Cash,8.50
+319-74-2561,Member,Female,United States,Los Angeles,California,90032,Electronic accessories,3,14.196,298.116,Standard Class,15/08/2019,Cash,5.50
+549-03-9315,Normal,Male,United States,Los Angeles,California,90032,Fashion accessories,8,37.948,796.908,Standard Class,16/08/2019,Ewallet,8.70
+790-29-1172,Normal,Female,United States,Dublin,Ohio,43017,Food and beverages,3,8.601,180.621,First Class,17/08/2019,Credit card,7.90
+239-36-3640,Normal,Male,United States,Dublin,Ohio,43017,Electronic accessories,6,13.605,285.705,First Class,18/08/2019,Ewallet,6.10
+468-01-2051,Normal,Male,United States,Dublin,Ohio,43017,Food and beverages,7,21.728,456.288,First Class,19/08/2019,Ewallet,5.40
+389-25-3394,Normal,Male,United States,Dublin,Ohio,43017,Electronic accessories,5,2.9525,62.0025,First Class,20/08/2019,Cash,9.40
+279-62-1445,Member,Female,United States,Dublin,Ohio,43017,Fashion accessories,1,0.627,13.167,First Class,21/08/2019,Cash,8.20
+213-72-6612,Normal,Male,United States,Dublin,Ohio,43017,Food and beverages,2,4.325,90.825,First Class,22/08/2019,Cash,6.20
+746-68-6593,Member,Female,United States,Detroit,Michigan,48227,Sports and travel,2,8.716,183.036,Standard Class,23/08/2019,Credit card,9.70
+836-82-5858,Member,Male,United States,Detroit,Michigan,48227,Health and beauty,9,31.2165,655.5465,Standard Class,24/08/2019,Ewallet,4.00
+583-72-1480,Member,Male,United States,Detroit,Michigan,48227,Electronic accessories,4,7.412,155.652,Standard Class,25/08/2019,Ewallet,9.70
+466-61-5506,Member,Female,United States,Columbia,Tennessee,38401,Electronic accessories,6,27.21,571.41,Standard Class,26/08/2019,Cash,5.30
+721-86-6247,Normal,Female,United States,Columbia,Tennessee,38401,Home and lifestyle,8,25.368,532.728,Standard Class,27/08/2019,Ewallet,7.40
+289-65-5721,Normal,Female,United States,Charlotte,North Carolina,28205,Fashion accessories,2,8.137,170.877,Standard Class,28/08/2019,Cash,6.50
+545-46-3100,Member,Female,United States,Tampa,Florida,33614,Electronic accessories,3,1.5885,33.3585,Standard Class,29/08/2019,Credit card,8.70
+418-02-5978,Normal,Female,United States,Tampa,Florida,33614,Health and beauty,9,37.8405,794.6505,Standard Class,30/08/2019,Cash,
+269-04-5750,Member,Male,United States,Tampa,Florida,33614,Fashion accessories,4,14.764,310.044,Standard Class,31/08/2019,Cash,6.70
+157-13-5295,Member,Male,United States,Tampa,Florida,33614,Health and beauty,10,25.97,545.37,Standard Class,01/09/2019,Ewallet,6.50
+645-78-8093,Normal,Female,United States,Tampa,Florida,33614,Sports and travel,2,9.314,195.594,Standard Class,02/09/2019,Ewallet,4.10
+211-30-9270,Normal,Male,United States,Santa Clara,California,95051,Health and beauty,5,4.3525,91.4025,Standard Class,03/09/2019,Credit card,4.90
+755-12-3214,Member,Female,United States,Chicago,Illinois,60610,Fashion accessories,5,11.055,232.155,Second Class,04/09/2019,Credit card,8.60
+346-84-3103,Member,Female,United States,Chicago,Illinois,60610,Electronic accessories,5,3.305,69.405,Second Class,05/09/2019,Cash,4.30
+478-06-7835,Normal,Male,United States,Chicago,Illinois,60610,Fashion accessories,1,4.4845,94.1745,Second Class,06/09/2019,Ewallet,4.90
+540-11-4336,Normal,Male,United States,Chicago,Illinois,60610,Food and beverages,9,11.223,235.683,Second Class,07/09/2019,Credit card,5.60
+448-81-5016,Normal,Male,United States,Chicago,Illinois,60610,Health and beauty,2,5.977,125.517,Second Class,08/09/2019,Credit card,5.80
+142-72-4741,Member,Male,United States,Chicago,Illinois,60610,Fashion accessories,2,9.32,195.72,Second Class,09/09/2019,Credit card,6.00
+217-58-1179,Member,Male,United States,Chicago,Illinois,60610,Home and lifestyle,4,12.53,263.13,Second Class,10/09/2019,Cash,4.20
+376-02-8238,Normal,Male,United States,Lakeville,Minnesota,55044,Home and lifestyle,8,37.548,788.508,Second Class,11/09/2019,Credit card,8.30
+530-90-9855,Member,Male,United States,Lakeville,Minnesota,55044,Home and lifestyle,8,19.036,399.756,Second Class,12/09/2019,Cash,5.70
+866-05-7563,Member,Female,United States,Lakeville,Minnesota,55044,Electronic accessories,3,12.21,256.41,Second Class,13/09/2019,Cash,4.80
+604-70-6476,Member,Male,United States,Lakeville,Minnesota,55044,Fashion accessories,5,4.485,94.185,Second Class,14/09/2019,Ewallet,6.80
+799-71-1548,Member,Male,United States,Lakeville,Minnesota,55044,Electronic accessories,4,15.544,326.424,Second Class,15/09/2019,Credit card,8.80
+785-13-7708,Normal,Male,United States,San Francisco,California,94109,Food and beverages,7,25.571,536.991,Second Class,16/09/2019,Credit card,4.20
+845-51-0542,Member,Male,United States,San Diego,California,92037,Food and beverages,9,20.9475,439.8975,Standard Class,17/09/2019,Ewallet,6.40
+662-47-5456,Member,Male,United States,San Diego,California,92037,Fashion accessories,10,17.595,369.495,Standard Class,18/09/2019,Credit card,8.40
+883-17-4236,Normal,Female,United States,New York City,New York,10024,Sports and travel,2,1.439,30.219,First Class,19/09/2019,Credit card,7.20
+290-68-2984,Normal,Male,United States,New York City,New York,10024,Home and lifestyle,4,4.75,99.75,First Class,20/09/2019,Cash,5.20
+704-11-6354,Member,Male,United States,Chicago,Illinois,60623,Home and lifestyle,8,23.56,494.76,Standard Class,21/09/2019,Cash,
+110-48-7033,Member,Male,United States,Chicago,Illinois,60623,Fashion accessories,4,6.524,137.004,Standard Class,22/09/2019,Cash,9.00
+366-93-0948,Member,Male,United States,Chicago,Illinois,60623,Electronic accessories,1,3.3175,69.6675,Standard Class,23/09/2019,Credit card,9.70
+729-09-9681,Member,Male,United States,Chicago,Illinois,60623,Home and lifestyle,6,7.773,163.233,Standard Class,24/09/2019,Ewallet,8.70
+151-16-1484,Member,Male,United States,New York City,New York,10009,Electronic accessories,4,6.45,135.45,Second Class,25/09/2019,Ewallet,6.50
+380-94-4661,Member,Male,United States,New York City,New York,10009,Electronic accessories,4,13.188,276.948,Second Class,26/09/2019,Credit card,6.90
+850-41-9669,Normal,Female,United States,New York City,New York,10009,Electronic accessories,9,33.777,709.317,Second Class,27/09/2019,Ewallet,6.20
+821-07-3596,Normal,Female,United States,Pasadena,Texas,77506,Fashion accessories,4,3.29,69.09,Standard Class,28/09/2019,Ewallet,5.60
+655-85-5130,Member,Female,United States,Houston,Texas,77036,Fashion accessories,4,7.66,160.86,Second Class,29/09/2019,Cash,5.70
+447-15-7839,Member,Female,United States,Houston,Texas,77036,Sports and travel,10,11.12,233.52,Second Class,30/09/2019,Cash,4.20
+154-74-7179,Normal,Male,United States,Chicago,Illinois,60610,Sports and travel,1,2.7225,57.1725,Standard Class,01/10/2019,Ewallet,7.90
+253-12-6086,Member,Female,United States,Brentwood,California,94513,Sports and travel,7,34.44,723.24,Standard Class,02/10/2019,Credit card,8.70
+808-65-0703,Normal,Male,United States,Chapel Hill,North Carolina,27514,Home and lifestyle,4,7.094,148.974,Standard Class,03/10/2019,Credit card,6.90
+571-94-0759,Member,Female,United States,Morristown,New Jersey,7960,Food and beverages,10,37.3,783.3,Standard Class,04/10/2019,Cash,9.50
+144-51-6085,Member,Male,United States,Cincinnati,Ohio,45231,Home and lifestyle,4,14.148,297.108,Standard Class,05/10/2019,Credit card,4.40
+731-14-2199,Member,Female,United States,Cincinnati,Ohio,45231,Home and lifestyle,10,17.77,373.17,Standard Class,06/10/2019,Ewallet,7.00
+783-09-1637,Normal,Female,United States,San Francisco,California,94110,Sports and travel,5,16.8575,354.0075,Second Class,07/10/2019,Ewallet,6.30
+687-15-1097,Member,Female,United States,San Francisco,California,94109,Health and beauty,2,2.112,44.352,First Class,08/10/2019,Cash,9.70
+126-54-1082,Member,Female,United States,San Francisco,California,94109,Home and lifestyle,9,9.693,203.553,First Class,09/10/2019,Credit card,8.80
+633-91-1052,Normal,Female,United States,San Francisco,California,94109,Home and lifestyle,2,1.203,25.263,First Class,10/10/2019,Cash,5.10
+477-24-6490,Normal,Female,United States,Inglewood,California,90301,Health and beauty,6,29.913,628.173,First Class,11/10/2019,Ewallet,7.90
+566-19-5475,Normal,Male,United States,Inglewood,California,90301,Fashion accessories,7,16.7895,352.5795,First Class,12/10/2019,Cash,6.20
+526-86-8552,Member,Female,United States,Philadelphia,Pennsylvania,19140,Home and lifestyle,10,10.91,229.11,Standard Class,13/10/2019,Cash,
+376-56-3573,Normal,Female,United States,Philadelphia,Pennsylvania,19140,Fashion accessories,4,19.084,400.764,Standard Class,14/10/2019,Ewallet,6.40
+537-72-0426,Member,Male,United States,Philadelphia,Pennsylvania,19140,Fashion accessories,10,35.495,745.395,Standard Class,15/10/2019,Cash,5.70
+828-61-5674,Member,Male,United States,Philadelphia,Pennsylvania,19140,Sports and travel,10,22.01,462.21,Standard Class,16/10/2019,Credit card,9.60
+136-08-6195,Normal,Female,United States,Houston,Texas,77070,Home and lifestyle,8,27.984,587.664,Second Class,17/10/2019,Credit card,6.40
+523-38-0215,Normal,Male,United States,Houston,Texas,77070,Home and lifestyle,1,1.85,38.85,Second Class,18/10/2019,Credit card,7.90
+490-29-1201,Normal,Female,United States,Los Angeles,California,90004,Sports and travel,1,0.767,16.107,Standard Class,19/10/2019,Cash,6.50
+667-92-0055,Member,Male,United States,Portland,Oregon,97206,Health and beauty,6,29.949,628.929,Standard Class,20/10/2019,Ewallet,8.50
+565-17-3836,Member,Female,United States,Portland,Oregon,97206,Health and beauty,4,9.534,200.214,Standard Class,21/10/2019,Cash,9.10
+498-41-1961,Normal,Male,United States,Portland,Oregon,97206,Health and beauty,5,16.67,350.07,Standard Class,22/10/2019,Cash,7.60
+593-95-4461,Member,Male,United States,Tamarac,Florida,33319,Home and lifestyle,1,3.743,78.603,Second Class,23/10/2019,Cash,6.90
+226-71-3580,Normal,Female,United States,Tamarac,Florida,33319,Sports and travel,9,10.6875,224.4375,Second Class,24/10/2019,Cash,9.50
+283-79-9594,Normal,Female,United States,Tamarac,Florida,33319,Food and beverages,7,16.9785,356.5485,Second Class,25/10/2019,Credit card,5.20
+430-60-3493,Member,Female,United States,Columbus,Ohio,43229,Home and lifestyle,7,33.208,697.368,Second Class,26/10/2019,Cash,4.20
+139-20-0155,Member,Male,United States,Columbus,Ohio,43229,Electronic accessories,10,20.15,423.15,Second Class,27/10/2019,Credit card,7.00
+558-80-4082,Normal,Male,United States,Columbus,Ohio,43229,Electronic accessories,7,9.7475,204.6975,Second Class,28/10/2019,Ewallet,6.00
+278-97-7759,Member,Female,United States,Columbus,Ohio,43229,Electronic accessories,1,3.124,65.604,Second Class,29/10/2019,Cash,4.70
+316-68-6352,Member,Female,United States,Colorado Springs,Colorado,80906,Food and beverages,2,3.636,76.356,First Class,30/10/2019,Cash,7.10
+585-03-5943,Normal,Male,United States,Colorado Springs,Colorado,80906,Health and beauty,10,9.055,190.155,First Class,31/10/2019,Ewallet,5.90
+211-05-0490,Member,Female,United States,Colorado Springs,Colorado,80906,Electronic accessories,5,12.98,272.58,First Class,01/11/2019,Cash,7.50
+727-75-6477,Normal,Male,United States,Colorado Springs,Colorado,80906,Electronic accessories,4,5.768,121.128,First Class,02/11/2019,Cash,6.40
+744-02-5987,Member,Male,United States,Colorado Springs,Colorado,80906,Home and lifestyle,6,23.514,493.794,First Class,03/11/2019,Ewallet,5.80
+307-83-9164,Member,Male,United States,Belleville,New Jersey,7109,Home and lifestyle,4,12.002,252.042,Standard Class,04/11/2019,Cash,
+779-06-0012,Member,Female,United States,Belleville,New Jersey,7109,Home and lifestyle,1,4.4305,93.0405,Standard Class,05/11/2019,Cash,7.70
+446-47-6729,Normal,Male,United States,Belleville,New Jersey,7109,Fashion accessories,2,9.982,209.622,Standard Class,06/11/2019,Credit card,6.70
+573-10-3877,Member,Male,United States,Belleville,New Jersey,7109,Health and beauty,1,1.9505,40.9605,Standard Class,07/11/2019,Credit card,4.70
+735-06-4124,Normal,Male,United States,Belleville,New Jersey,7109,Food and beverages,1,2.4305,51.0405,Standard Class,08/11/2019,Cash,4.40
+439-54-7422,Normal,Female,United States,Chicago,Illinois,60623,Electronic accessories,4,10.238,214.998,Standard Class,09/11/2019,Credit card,4.70
+396-90-2219,Normal,Female,United States,New York City,New York,10024,Electronic accessories,8,5.984,125.664,Second Class,10/11/2019,Cash,8.60
+411-77-0180,Member,Male,United States,Taylor,Michigan,48180,Electronic accessories,7,25.27,530.67,Standard Class,11/11/2019,Ewallet,4.30
+286-01-5402,Normal,Female,United States,Lakewood,New Jersey,8701,Sports and travel,7,14.0805,295.6905,Standard Class,12/11/2019,Cash,9.60
+803-17-8013,Member,Female,United States,Lakewood,New Jersey,8701,Home and lifestyle,8,35.516,745.836,Standard Class,13/11/2019,Cash,4.10
+512-98-1403,Member,Female,United States,Arlington,Virginia,22204,Electronic accessories,3,3.972,83.412,First Class,14/11/2019,Ewallet,4.70
+848-42-2560,Normal,Female,United States,Arvada,Colorado,80004,Fashion accessories,2,8.191,172.011,Second Class,15/11/2019,Cash,7.80
+532-59-7201,Member,Male,United States,Arvada,Colorado,80004,Sports and travel,6,23.979,503.559,Second Class,16/11/2019,Cash,5.50
+181-94-6432,Member,Male,United States,Arvada,Colorado,80004,Fashion accessories,2,6.933,145.593,Second Class,17/11/2019,Ewallet,9.70
+870-76-1733,Member,Female,United States,Arvada,Colorado,80004,Food and beverages,5,3.5575,74.7075,Second Class,18/11/2019,Credit card,4.40
+423-64-4619,Member,Female,United States,Hackensack,New Jersey,7601,Health and beauty,9,6.9975,146.9475,Standard Class,19/11/2019,Cash,5.00
+227-07-4446,Member,Female,United States,Saint Petersburg,Florida,33710,Electronic accessories,10,39.065,820.365,Standard Class,20/11/2019,Cash,4.40
+174-36-3675,Member,Male,United States,Saint Petersburg,Florida,33710,Food and beverages,2,9.937,208.677,Standard Class,21/11/2019,Cash,5.20
+428-83-5800,Member,Female,United States,Philadelphia,Pennsylvania,19143,Food and beverages,3,3.162,66.402,First Class,22/11/2019,Cash,7.30
+603-07-0961,Member,Male,United States,New York City,New York,10024,Electronic accessories,5,18.6975,392.6475,Standard Class,23/11/2019,Cash,4.90
+704-20-4138,Member,Female,United States,New York City,New York,10024,Health and beauty,7,10.3845,218.0745,Standard Class,24/11/2019,Credit card,8.10
+787-15-1757,Member,Male,United States,New York City,New York,10024,Health and beauty,4,8.814,185.094,Standard Class,25/11/2019,Ewallet,8.40
+649-11-3678,Normal,Female,United States,New York City,New York,10024,Food and beverages,9,10.3185,216.6885,Standard Class,26/11/2019,Cash,
+622-20-1945,Normal,Female,United States,New York City,New York,10024,Health and beauty,1,1.971,41.391,Standard Class,27/11/2019,Cash,8.40
+372-94-8041,Normal,Male,United States,Long Beach,California,90805,Health and beauty,6,4.578,96.138,Standard Class,28/11/2019,Ewallet,9.80
+563-91-7120,Normal,Female,United States,Hesperia,California,92345,Fashion accessories,5,15.4425,324.2925,Standard Class,29/11/2019,Cash,6.70
+746-54-5508,Normal,Male,United States,Hesperia,California,92345,Home and lifestyle,6,6.456,135.576,Standard Class,30/11/2019,Credit card,9.40
+276-54-0879,Normal,Male,United States,Murfreesboro,Tennessee,37130,Sports and travel,4,19.548,410.508,Second Class,01/12/2019,Ewallet,6.40
+815-11-1168,Member,Male,United States,Philadelphia,Pennsylvania,19143,Food and beverages,5,24.945,523.845,First Class,02/12/2019,Cash,5.40
+719-76-3868,Member,Male,United States,Philadelphia,Pennsylvania,19143,Food and beverages,4,18.852,395.892,First Class,03/12/2019,Cash,8.60
+730-61-8757,Member,Male,United States,Philadelphia,Pennsylvania,19143,Health and beauty,4,10.226,214.746,First Class,04/12/2019,Credit card,4.00
+340-66-0321,Member,Male,United States,Philadelphia,Pennsylvania,19143,Electronic accessories,4,7.272,152.712,First Class,05/12/2019,Cash,7.60
+868-81-1752,Normal,Male,United States,Philadelphia,Pennsylvania,19143,Home and lifestyle,9,9.909,208.089,First Class,06/12/2019,Cash,6.80
+634-97-8956,Normal,Male,United States,Philadelphia,Pennsylvania,19134,Food and beverages,3,4.935,103.635,Second Class,07/12/2019,Credit card,9.10
+566-71-1091,Normal,Male,United States,Philadelphia,Pennsylvania,19134,Fashion accessories,5,19.255,404.355,Second Class,08/12/2019,Cash,5.50
+442-48-3607,Member,Male,United States,Philadelphia,Pennsylvania,19134,Food and beverages,2,2.348,49.308,Second Class,09/12/2019,Credit card,7.90
+835-16-0096,Member,Male,United States,Los Angeles,California,90045,Sports and travel,5,3.675,77.175,Second Class,10/12/2019,Ewallet,8.50
+527-09-6272,Member,Female,United States,Los Angeles,California,90045,Electronic accessories,5,7.1125,149.3625,Second Class,11/12/2019,Credit card,9.10
+898-04-2717,Normal,Male,United States,Los Angeles,California,90045,Fashion accessories,9,34.38,721.98,Second Class,12/12/2019,Ewallet,7.50
+692-27-8933,Normal,Female,United States,San Francisco,California,94122,Sports and travel,6,17.385,365.085,Standard Class,13/12/2019,Cash,5.20
+633-09-3463,Normal,Female,United States,San Francisco,California,94122,Electronic accessories,3,7.1475,150.0975,Standard Class,14/12/2019,Credit card,9.50
+374-17-3652,Member,Female,United States,Layton,Utah,84041,Food and beverages,9,19.269,404.649,Second Class,15/12/2019,Credit card,8.90
+378-07-7001,Member,Male,United States,Philadelphia,Pennsylvania,19140,Electronic accessories,3,7.2135,151.4835,Second Class,16/12/2019,Credit card,7.80
+433-75-6987,Member,Female,United States,Philadelphia,Pennsylvania,19140,Health and beauty,7,19.5895,411.3795,Second Class,17/12/2019,Ewallet,8.90
+873-95-4984,Member,Female,United States,Philadelphia,Pennsylvania,19140,Health and beauty,7,26.915,565.215,Second Class,18/12/2019,Cash,
+416-13-5917,Normal,Female,United States,Philadelphia,Pennsylvania,19140,Food and beverages,5,24.2575,509.4075,Second Class,19/12/2019,Ewallet,9.30
+150-89-8043,Normal,Male,United States,Austin,Texas,78745,Sports and travel,3,6.6975,140.6475,Standard Class,20/12/2019,Cash,6.20
+135-84-8019,Normal,Female,United States,San Francisco,California,94122,Fashion accessories,9,35.0685,736.4385,Standard Class,21/12/2019,Ewallet,7.60
+441-94-7118,Member,Male,United States,Lowell,Massachusetts,1852,Electronic accessories,1,3.5975,75.5475,Standard Class,22/12/2019,Cash,7.30
+725-96-3778,Member,Female,United States,Lowell,Massachusetts,1852,Home and lifestyle,8,35.7,749.7,Standard Class,23/12/2019,Cash,4.70
+531-80-1784,Normal,Male,United States,Lowell,Massachusetts,1852,Electronic accessories,7,9.107,191.247,Standard Class,24/12/2019,Cash,5.10
+400-45-1220,Normal,Female,United States,New York City,New York,10009,Health and beauty,10,6.75,141.75,First Class,25/12/2019,Credit card,4.80
+860-79-0874,Member,Female,United States,New York City,New York,10009,Fashion accessories,10,49.65,1042.65,First Class,26/12/2019,Credit card,6.60
+834-61-8124,Normal,Male,United States,New York City,New York,10009,Electronic accessories,7,18.0915,379.9215,First Class,27/12/2019,Cash,5.50
+115-99-4379,Member,Female,United States,New York City,New York,10009,Fashion accessories,7,19.1555,402.2655,First Class,28/12/2019,Credit card,8.50
+565-67-6697,Member,Male,United States,New York City,New York,10009,Home and lifestyle,9,12.15,255.15,First Class,29/12/2019,Cash,4.80
+320-49-6392,Normal,Female,United States,New York City,New York,10035,Electronic accessories,1,1.512,31.752,Standard Class,30/12/2019,Cash,8.40
+889-04-9723,Member,Female,United States,New York City,New York,10035,Food and beverages,4,17.828,374.388,Standard Class,31/12/2019,Credit card,7.80
+632-90-0281,Normal,Female,United States,New York City,New York,10035,Fashion accessories,10,18.775,394.275,Standard Class,01/01/2020,Credit card,9.30
+554-42-2417,Normal,Female,United States,New York City,New York,10035,Sports and travel,10,47.72,1002.12,Standard Class,02/01/2020,Cash,5.20
+453-63-6187,Normal,Female,United States,Charlotte,North Carolina,28205,Electronic accessories,3,4.125,86.625,Standard Class,03/01/2020,Ewallet,6.50
+578-80-7669,Normal,Female,United States,Columbus,Georgia,31907,Sports and travel,1,3.7485,78.7185,First Class,04/01/2020,Cash,5.60
+612-36-5536,Member,Female,United States,Columbus,Georgia,31907,Food and beverages,8,32.384,680.064,First Class,05/01/2020,Credit card,7.40
+605-72-4132,Normal,Female,United States,New York City,New York,10009,Food and beverages,8,37.788,793.548,Standard Class,06/01/2020,Cash,9.10
+471-41-2823,Normal,Female,United States,New York City,New York,10009,Food and beverages,2,9.979,209.559,Standard Class,07/01/2020,Ewallet,8.00
+462-67-9126,Normal,Female,United States,New York City,New York,10009,Home and lifestyle,6,21.966,461.286,Standard Class,08/01/2020,Cash,7.20
+272-27-9238,Normal,Female,United States,New York City,New York,10009,Food and beverages,4,8.248,173.208,Standard Class,09/01/2020,Cash,
+834-25-9262,Normal,Female,United States,San Francisco,California,94109,Fashion accessories,4,16.336,343.056,Standard Class,10/01/2020,Cash,9.10
+122-61-9553,Normal,Female,United States,Manchester,Connecticut,6040,Electronic accessories,9,23.094,484.974,Same Day,11/01/2020,Cash,5.60
+468-88-0009,Member,Female,United States,Manchester,Connecticut,6040,Home and lifestyle,4,13.188,276.948,Same Day,12/01/2020,Cash,6.00
+613-59-9758,Normal,Female,United States,Manchester,Connecticut,6040,Sports and travel,10,7.18,150.78,Same Day,13/01/2020,Cash,5.40
+254-31-0042,Member,Female,United States,Manchester,Connecticut,6040,Electronic accessories,9,9.675,203.175,Same Day,14/01/2020,Credit card,7.80
+201-86-2184,Member,Female,United States,Harlingen,Texas,78550,Electronic accessories,7,9.191,193.011,Standard Class,15/01/2020,Cash,9.90
+261-12-8671,Normal,Female,United States,Harlingen,Texas,78550,Fashion accessories,2,6.096,128.016,Standard Class,16/01/2020,Credit card,4.90
+730-70-9830,Normal,Female,United States,Tucson,Arizona,85705,Home and lifestyle,6,21.033,441.693,Standard Class,17/01/2020,Ewallet,5.20
+382-25-8917,Normal,Female,United States,Tucson,Arizona,85705,Fashion accessories,6,12.624,265.104,Standard Class,18/01/2020,Cash,8.90
+422-29-8786,Normal,Female,United States,Tucson,Arizona,85705,Home and lifestyle,5,16.7725,352.2225,Standard Class,19/01/2020,Credit card,9.10
+667-23-5919,Member,Female,United States,Tucson,Arizona,85705,Fashion accessories,5,24.175,507.675,Standard Class,20/01/2020,Ewallet,7.00
+843-01-4703,Member,Female,United States,Quincy,Illinois,62301,Home and lifestyle,9,15.921,334.341,First Class,21/01/2020,Credit card,9.60
+743-88-1662,Normal,Female,United States,Franklin,Massachusetts,2038,Sports and travel,7,33.4215,701.8515,Standard Class,22/01/2020,Ewallet,8.70
+595-86-2894,Member,Female,United States,Houston,Texas,77095,Fashion accessories,4,19.396,407.316,Standard Class,23/01/2020,Ewallet,9.40
+182-69-8360,Normal,Female,United States,Houston,Texas,77095,Electronic accessories,4,4.73,99.33,Standard Class,24/01/2020,Credit card,4.00
+289-15-7034,Member,Female,United States,Houston,Texas,77095,Sports and travel,4,16.466,345.786,Standard Class,25/01/2020,Credit card,7.50
+462-78-5240,Normal,Female,United States,San Francisco,California,94109,Electronic accessories,2,2.661,55.881,First Class,26/01/2020,Cash,4.20
+868-52-7573,Normal,Female,United States,San Francisco,California,94109,Food and beverages,5,24.9225,523.3725,First Class,27/01/2020,Cash,9.90
+153-58-4872,Member,Female,United States,Taylor,Michigan,48180,Food and beverages,4,14.978,314.538,Second Class,28/01/2020,Ewallet,4.20
+662-72-2873,Normal,Female,United States,Pembroke Pines,Florida,33024,Food and beverages,5,10.235,214.935,Standard Class,29/01/2020,Ewallet,9.90
+525-88-7307,Member,Female,United States,Pembroke Pines,Florida,33024,Sports and travel,1,3.791,79.611,Standard Class,30/01/2020,Cash,5.80
+689-16-9784,Normal,Female,United States,Philadelphia,Pennsylvania,19140,Food and beverages,6,14.031,294.651,Standard Class,31/01/2020,Cash,
+725-56-0833,Normal,Female,United States,Philadelphia,Pennsylvania,19140,Health and beauty,10,16.16,339.36,Standard Class,01/02/2020,Credit card,10.00
+394-41-0748,Member,Female,United States,Cincinnati,Ohio,45231,Fashion accessories,9,24.3315,510.9615,First Class,02/02/2020,Ewallet,9.50
+596-42-3999,Normal,Female,United States,New York City,New York,10009,Food and beverages,7,6.377,133.917,Standard Class,03/02/2020,Credit card,6.60
+541-89-9860,Member,Female,United States,New York City,New York,10009,Fashion accessories,3,12.072,253.512,Standard Class,04/02/2020,Cash,8.10
+173-82-9529,Normal,Female,United States,Des Moines,Washington,98198,Fashion accessories,10,18.975,398.475,Second Class,05/02/2020,Cash,9.70
+563-36-9814,Member,Female,United States,Des Moines,Washington,98198,Electronic accessories,1,3.841,80.661,Second Class,06/02/2020,Ewallet,7.20
+308-47-4913,Member,Female,United States,Peoria,Illinois,61604,Sports and travel,10,26.13,548.73,Second Class,07/02/2020,Credit card,6.20
+885-17-6250,Normal,Female,United States,Las Vegas,Nevada,89115,Health and beauty,1,3.987,83.727,Standard Class,08/02/2020,Ewallet,7.30
+726-27-2396,Normal,Female,United States,Warwick,Rhode Island,2886,Health and beauty,5,19.375,406.875,Second Class,09/02/2020,Ewallet,4.30
+316-01-3952,Normal,Female,United States,Warwick,Rhode Island,2886,Food and beverages,5,13.5675,284.9175,Second Class,10/02/2020,Ewallet,4.60
+760-54-1821,Normal,Female,United States,Jackson,Michigan,49201,Home and lifestyle,9,6.1155,128.4255,Standard Class,11/02/2020,Cash,5.80
+793-10-3222,Member,Female,United States,Houston,Texas,77036,Health and beauty,6,12.318,258.678,Second Class,12/02/2020,Credit card,8.30
+346-12-3257,Member,Female,United States,Houston,Texas,77036,Electronic accessories,9,8.658,181.818,Second Class,13/02/2020,Cash,8.00
+110-05-6330,Normal,Female,United States,Houston,Texas,77036,Food and beverages,6,11.829,248.409,Second Class,14/02/2020,Cash,9.40
+651-61-0874,Normal,Female,United States,Houston,Texas,77036,Home and lifestyle,4,9.244,194.124,Second Class,15/02/2020,Cash,6.20
+236-86-3015,Member,Female,United States,Miami,Florida,33180,Home and lifestyle,1,0.699,14.679,First Class,16/02/2020,Ewallet,9.80
+831-64-0259,Normal,Female,United States,Wilmington,North Carolina,28403,Fashion accessories,5,9.9375,208.6875,Standard Class,17/02/2020,Ewallet,9.60
+587-03-7455,Member,Female,United States,New York City,New York,10024,Fashion accessories,7,34.2265,718.7565,Standard Class,18/02/2020,Ewallet,4.90
+882-40-4577,Member,Female,United States,San Francisco,California,94110,Sports and travel,4,13.452,282.492,Standard Class,19/02/2020,Credit card,8.00
+732-67-5346,Normal,Female,United States,San Francisco,California,94110,Food and beverages,5,3.4475,72.3975,Standard Class,20/02/2020,Credit card,7.80
+725-32-9708,Member,Female,United States,San Francisco,California,94110,Fashion accessories,4,13.742,288.582,Standard Class,21/02/2020,Cash,4.10
+256-08-8343,Normal,Female,United States,San Francisco,California,94110,Home and lifestyle,4,11.306,237.426,Standard Class,22/02/2020,Ewallet,
+372-26-1506,Normal,Female,United States,San Francisco,California,94110,Fashion accessories,5,5.955,125.055,Standard Class,23/02/2020,Ewallet,5.40
+244-08-0162,Normal,Female,United States,San Francisco,California,94110,Health and beauty,10,17.105,359.205,Standard Class,24/02/2020,Cash,5.10
+569-71-4390,Normal,Female,United States,San Francisco,California,94110,Sports and travel,2,2.187,45.927,Standard Class,25/02/2020,Ewallet,6.90
+132-23-6451,Member,Female,United States,San Francisco,California,94110,Health and beauty,5,5.2425,110.0925,Standard Class,26/02/2020,Cash,7.80
+696-90-2548,Normal,Female,United States,San Francisco,California,94110,Sports and travel,3,3.876,81.396,Standard Class,27/02/2020,Ewallet,6.60
+472-15-9636,Normal,Female,United States,Seattle,Washington,98105,Home and lifestyle,8,20.372,427.812,Standard Class,28/02/2020,Ewallet,9.20
+268-03-6164,Normal,Female,United States,Seattle,Washington,98105,Health and beauty,1,4.8055,100.9155,Standard Class,29/02/2020,Ewallet,7.80
+750-57-9686,Normal,Female,United States,Huntington Beach,California,92646,Home and lifestyle,4,9.076,190.596,Standard Class,01/03/2020,Credit card,8.70
+186-09-3669,Member,Female,United States,Los Angeles,California,90004,Health and beauty,1,4.0755,85.5855,Standard Class,02/03/2020,Ewallet,9.20
+848-07-1692,Normal,Female,United States,Richmond,Kentucky,40475,Health and beauty,2,5.722,120.162,Standard Class,03/03/2020,Ewallet,8.30
+745-71-3520,Member,Female,United States,Los Angeles,California,90045,Electronic accessories,7,8.827,185.367,Standard Class,04/03/2020,Cash,8.20
+266-76-6436,Member,Female,United States,Los Angeles,California,90045,Food and beverages,3,5.79,121.59,Standard Class,05/03/2020,Ewallet,7.50
+740-22-2500,Normal,Female,United States,Louisville,Colorado,80027,Electronic accessories,3,12.6075,264.7575,First Class,06/03/2020,Cash,9.80
+271-88-8734,Member,Female,United States,Lawrence,Massachusetts,1841,Fashion accessories,10,48.605,1020.705,Standard Class,07/03/2020,Credit card,8.70
+301-81-8610,Member,Female,United States,Lawrence,Massachusetts,1841,Fashion accessories,8,10.168,213.528,Standard Class,08/03/2020,Credit card,6.70
+489-64-4354,Normal,Female,United States,Jackson,Mississippi,39212,Fashion accessories,1,0.814,17.094,Second Class,09/03/2020,Cash,5.00
+198-84-7132,Member,Female,United States,Canton,Michigan,48187,Fashion accessories,9,18.2745,383.7645,Second Class,10/03/2020,Cash,7.00
+269-10-8440,Member,Female,United States,Canton,Michigan,48187,Health and beauty,7,18.6095,390.7995,Second Class,11/03/2020,Cash,8.90
+650-98-6268,Member,Female,United States,New Rochelle,New York,10801,Food and beverages,3,3.1305,65.7405,First Class,12/03/2020,Credit card,8.00
+741-73-3559,Normal,Female,United States,San Antonio,Texas,78207,Sports and travel,5,16.8175,353.1675,Standard Class,13/03/2020,Cash,6.90
+325-77-6186,Member,Female,United States,Gastonia,North Carolina,28052,Home and lifestyle,10,45.325,951.825,Standard Class,14/03/2020,Ewallet,7.30
+286-75-7818,Normal,Female,United States,Gastonia,North Carolina,28052,Fashion accessories,2,6.908,145.068,Standard Class,15/03/2020,Credit card,
+574-57-9721,Normal,Female,United States,Gastonia,North Carolina,28052,Food and beverages,2,4.327,90.867,Standard Class,16/03/2020,Ewallet,5.70
+459-50-7686,Normal,Female,United States,Gastonia,North Carolina,28052,Electronic accessories,6,7.038,147.798,Standard Class,17/03/2020,Ewallet,6.40
+616-87-0016,Normal,Female,United States,Lowell,Massachusetts,1852,Fashion accessories,7,33.439,702.219,First Class,18/03/2020,Credit card,9.60
+837-55-7229,Normal,Female,United States,Jacksonville,Florida,32216,Fashion accessories,1,2.372,49.812,Standard Class,19/03/2020,Credit card,6.80
+751-69-0068,Normal,Male,United States,Jacksonville,Florida,32216,Sports and travel,9,44.658,937.818,Standard Class,20/03/2020,Ewallet,9.00
+257-73-1380,Member,Male,United States,Chicago,Illinois,60623,Sports and travel,4,16.586,348.306,Second Class,21/03/2020,Ewallet,9.60
+345-08-4992,Normal,Male,United States,Chicago,Illinois,60623,Home and lifestyle,6,10.197,214.137,Second Class,22/03/2020,Credit card,7.70
+549-96-4200,Member,Male,United States,Houston,Texas,77070,Food and beverages,4,3.408,71.568,Standard Class,23/03/2020,Ewallet,7.00
+810-60-6344,Normal,Female,United States,New York City,New York,10024,Electronic accessories,8,16.344,343.224,Second Class,24/03/2020,Credit card,6.50
+450-28-2866,Member,Male,United States,Detroit,Michigan,48227,Food and beverages,5,4.36,91.56,Second Class,25/03/2020,Cash,8.10
+394-30-3170,Member,Female,United States,Detroit,Michigan,48227,Sports and travel,8,35.372,742.812,Second Class,26/03/2020,Credit card,4.30
+138-17-5109,Member,Female,United States,Detroit,Michigan,48227,Home and lifestyle,9,40.1445,843.0345,Second Class,27/03/2020,Credit card,6.50
+192-98-7397,Normal,Male,United States,Detroit,Michigan,48227,Fashion accessories,1,0.639,13.419,Second Class,28/03/2020,Ewallet,9.50
+301-11-9629,Normal,Female,United States,Detroit,Michigan,48227,Sports and travel,7,6.685,140.385,Second Class,29/03/2020,Cash,9.70
+390-80-5128,Member,Female,United States,Detroit,Michigan,48227,Health and beauty,1,0.9575,20.1075,Second Class,30/03/2020,Credit card,9.50
+235-46-8343,Member,Male,United States,Columbus,Indiana,47201,Food and beverages,10,13.83,290.43,Second Class,31/03/2020,Credit card,8.90
+453-12-7053,Normal,Male,United States,Auburn,New York,13021,Fashion accessories,3,6.861,144.081,Second Class,01/04/2020,Credit card,6.50
+296-11-7041,Member,Female,United States,Auburn,New York,13021,Health and beauty,1,1.3535,28.4235,Second Class,02/04/2020,Credit card,5.30
+449-27-2918,Member,Female,United States,Auburn,New York,13021,Sports and travel,1,1.956,41.076,Second Class,03/04/2020,Credit card,9.60
+891-01-7034,Normal,Female,United States,Auburn,New York,13021,Electronic accessories,6,22.413,470.673,Second Class,04/04/2020,Cash,6.70
+744-09-5786,Normal,Male,United States,Auburn,New York,13021,Electronic accessories,6,6.603,138.663,Second Class,05/04/2020,Cash,7.60
+727-17-0390,Normal,Female,United States,Auburn,New York,13021,Food and beverages,5,15.9025,333.9525,Second Class,06/04/2020,Ewallet,
+568-88-3448,Normal,Male,United States,Akron,Ohio,44312,Health and beauty,1,1.25,26.25,Standard Class,07/04/2020,Ewallet,5.50
+187-83-5490,Member,Male,United States,Akron,Ohio,44312,Electronic accessories,4,4.154,87.234,Standard Class,08/04/2020,Cash,4.70
+767-54-1907,Member,Female,United States,Norman,Oklahoma,73071,Fashion accessories,5,7.39,155.19,Standard Class,09/04/2020,Cash,6.90
+710-46-4433,Member,Female,United States,Concord,California,94521,Food and beverages,9,34.83,731.43,Standard Class,10/04/2020,Credit card,4.50
+533-33-5337,Normal,Male,United States,Decatur,Illinois,62521,Electronic accessories,10,39.695,833.595,Standard Class,11/04/2020,Cash,6.20
+325-90-8763,Member,Female,United States,Decatur,Illinois,62521,Electronic accessories,10,23.285,488.985,Standard Class,12/04/2020,Cash,7.60
+729-46-7422,Normal,Male,United States,Seattle,Washington,98115,Food and beverages,1,1.7945,37.6845,Standard Class,13/04/2020,Credit card,7.90
+639-76-1242,Normal,Male,United States,Seattle,Washington,98115,Food and beverages,5,10.13,212.73,Standard Class,14/04/2020,Cash,4.50
+234-03-4040,Member,Female,United States,Seattle,Washington,98115,Food and beverages,10,36.525,767.025,Standard Class,15/04/2020,Credit card,8.70
+326-71-2155,Normal,Female,United States,Phoenix,Arizona,85023,Sports and travel,4,14.79,310.59,Standard Class,16/04/2020,Cash,6.10
+320-32-8842,Member,Female,United States,Phoenix,Arizona,85023,Food and beverages,1,1.131,23.751,Standard Class,17/04/2020,Cash,6.40
+470-32-9057,Member,Male,United States,Phoenix,Arizona,85023,Food and beverages,5,12.835,269.535,Standard Class,18/04/2020,Credit card,9.10
+878-30-2331,Member,Female,United States,Phoenix,Arizona,85023,Sports and travel,10,27.275,572.775,Standard Class,19/04/2020,Credit card,7.10
+440-59-5691,Member,Female,United States,Phoenix,Arizona,85023,Health and beauty,7,13.0025,273.0525,Standard Class,20/04/2020,Credit card,7.70
+554-53-3790,Normal,Male,United States,Park Ridge,Illinois,60068,Sports and travel,6,11.106,233.226,Standard Class,21/04/2020,Cash,4.50
+746-19-0921,Normal,Male,United States,Amarillo,Texas,79109,Food and beverages,1,1.079,22.659,Standard Class,22/04/2020,Ewallet,7.20
+233-34-0817,Member,Female,United States,Chicago,Illinois,60610,Electronic accessories,1,4.942,103.782,Second Class,23/04/2020,Cash,8.40
+767-05-1286,Member,Female,United States,Lindenhurst,New York,11757,Home and lifestyle,6,25.131,527.751,Standard Class,24/04/2020,Ewallet,5.40
+340-21-9136,Member,Female,United States,San Francisco,California,94110,Sports and travel,4,8.01,168.21,Second Class,25/04/2020,Cash,9.70
+405-31-3305,Member,Male,United States,San Francisco,California,94110,Fashion accessories,10,21.565,452.865,Second Class,26/04/2020,Credit card,5.50
+731-59-7531,Member,Male,United States,San Francisco,California,94110,Health and beauty,8,29.028,609.588,Second Class,27/04/2020,Cash,4.60
+676-39-6028,Member,Female,United States,San Francisco,California,94110,Electronic accessories,5,16.11,338.31,Second Class,28/04/2020,Cash,
+502-05-1910,Normal,Male,United States,San Francisco,California,94110,Health and beauty,3,9.777,205.317,Second Class,29/04/2020,Credit card,6.30
+485-30-8700,Normal,Female,United States,San Francisco,California,94110,Sports and travel,5,8.315,174.615,Second Class,30/04/2020,Credit card,4.20
+598-47-9715,Normal,Male,United States,Los Angeles,California,90008,Electronic accessories,4,16.814,353.094,Standard Class,01/05/2020,Ewallet,4.40
+701-69-8742,Normal,Male,United States,Troy,New York,12180,Sports and travel,10,17.185,360.885,Standard Class,02/05/2020,Ewallet,6.70
+575-67-1508,Normal,Male,United States,New York City,New York,10024,Electronic accessories,1,1.93,40.53,Standard Class,03/05/2020,Ewallet,6.70
+541-08-3113,Normal,Male,United States,New York City,New York,10024,Food and beverages,8,26.388,554.148,Standard Class,04/05/2020,Cash,8.40
+246-11-3901,Normal,Female,United States,San Diego,California,92024,Electronic accessories,10,16.4,344.4,Standard Class,05/05/2020,Cash,6.20
+674-15-9296,Normal,Male,United States,New York City,New York,10024,Sports and travel,5,9.285,194.985,Standard Class,06/05/2020,Ewallet,5.00
+305-18-3552,Member,Male,United States,New York City,New York,10024,Home and lifestyle,10,30.19,633.99,Standard Class,07/05/2020,Cash,6.00
+493-65-6248,Member,Female,United States,Los Angeles,California,90045,Sports and travel,10,18.49,388.29,First Class,08/05/2020,Credit card,7.00
+438-01-4015,Member,Female,United States,Los Angeles,California,90045,Sports and travel,4,9.898,207.858,First Class,09/05/2020,Ewallet,6.60
+709-58-4068,Normal,Female,United States,Los Angeles,California,90045,Fashion accessories,10,20.545,431.445,First Class,10/05/2020,Cash,7.30
+795-49-7276,Normal,Male,United States,Chicago,Illinois,60610,Fashion accessories,4,7.43,156.03,First Class,11/05/2020,Ewallet,8.30
+556-72-8512,Normal,Male,United States,Huntsville,Texas,77340,Home and lifestyle,1,1.148,24.108,Second Class,12/05/2020,Cash,4.30
+627-95-3243,Member,Female,United States,Huntsville,Texas,77340,Home and lifestyle,9,34.956,734.076,Second Class,13/05/2020,Ewallet,9.80
+686-41-0932,Normal,Female,United States,Huntsville,Texas,77340,Fashion accessories,2,3.47,72.87,Second Class,14/05/2020,Ewallet,8.20
+510-09-5628,Member,Female,United States,Rochester,New York,14609,Fashion accessories,10,9.83,206.43,Standard Class,15/05/2020,Credit card,7.20
+608-04-3797,Member,Female,United States,Rochester,New York,14609,Health and beauty,8,10.128,212.688,Standard Class,16/05/2020,Ewallet,8.70
+148-82-2527,Member,Female,United States,Seattle,Washington,98115,Home and lifestyle,10,6.06,127.26,Standard Class,17/05/2020,Credit card,8.40
+437-53-3084,Normal,Male,United States,Memphis,Tennessee,38109,Fashion accessories,2,9.989,209.769,Second Class,18/05/2020,Ewallet,7.10
+632-32-4574,Normal,Male,United States,Fayetteville,Arkansas,72701,Sports and travel,8,30.368,637.728,Standard Class,19/05/2020,Cash,5.50
+556-97-7101,Normal,Female,United States,Costa Mesa,California,92627,Electronic accessories,2,6.322,132.762,Standard Class,20/05/2020,Cash,
+862-59-8517,Normal,Female,United States,Costa Mesa,California,92627,Food and beverages,6,27.072,568.512,Standard Class,21/05/2020,Cash,6.20
+401-18-8016,Member,Female,United States,Costa Mesa,California,92627,Sports and travel,1,4.9065,103.0365,Standard Class,22/05/2020,Cash,8.90
+420-18-8989,Member,Female,United States,Costa Mesa,California,92627,Sports and travel,8,20.608,432.768,Standard Class,23/05/2020,Cash,9.60
+277-63-2961,Member,Male,United States,Parker,Colorado,80134,Sports and travel,1,3.6985,77.6685,Standard Class,24/05/2020,Credit card,5.40
+573-98-8548,Member,Female,United States,Parker,Colorado,80134,Fashion accessories,1,1.595,33.495,Standard Class,25/05/2020,Ewallet,9.10
+620-02-2046,Normal,Male,United States,Parker,Colorado,80134,Home and lifestyle,2,6.94,145.74,Standard Class,26/05/2020,Ewallet,9.00
+282-35-2475,Normal,Female,United States,Parker,Colorado,80134,Sports and travel,2,9.331,195.951,Standard Class,27/05/2020,Cash,6.30
+511-54-3087,Normal,Male,United States,Parker,Colorado,80134,Sports and travel,1,4.4225,92.8725,Standard Class,28/05/2020,Credit card,9.50
+726-29-6793,Member,Male,United States,New York City,New York,10024,Electronic accessories,8,9.672,203.112,Second Class,29/05/2020,Ewallet,9.80
+387-49-4215,Member,Female,United States,Atlanta,Georgia,30318,Sports and travel,3,7.275,152.775,Standard Class,30/05/2020,Cash,6.70
+862-17-9201,Normal,Female,United States,Atlanta,Georgia,30318,Food and beverages,6,25.215,529.515,Standard Class,31/05/2020,Credit card,7.70
+291-21-5991,Member,Male,United States,Atlanta,Georgia,30318,Health and beauty,5,15.3225,321.7725,Standard Class,01/06/2020,Cash,7.00
+602-80-9671,Member,Female,United States,Atlanta,Georgia,30318,Home and lifestyle,6,4.785,100.485,Standard Class,02/06/2020,Credit card,5.10
+347-72-6115,Member,Female,United States,Gladstone,Missouri,64118,Sports and travel,7,31.759,666.939,First Class,03/06/2020,Credit card,6.20
+209-61-0206,Normal,Female,United States,Gladstone,Missouri,64118,Home and lifestyle,5,10.7275,225.2775,First Class,04/06/2020,Ewallet,6.10
+595-27-4851,Normal,Female,United States,Newark,Ohio,43055,Fashion accessories,7,18.998,398.958,First Class,05/06/2020,Ewallet,9.30
+189-52-0236,Normal,Male,United States,Los Angeles,California,90049,Electronic accessories,7,34.8425,731.6925,Standard Class,06/06/2020,Cash,7.60
+503-07-0930,Member,Male,United States,Los Angeles,California,90049,Sports and travel,7,20.4365,429.1665,Standard Class,07/06/2020,Credit card,8.20
+413-20-6708,Member,Female,United States,Great Falls,Montana,59405,Fashion accessories,1,2.5735,54.0435,Standard Class,08/06/2020,Ewallet,8.50
+425-85-2085,Member,Male,United States,Great Falls,Montana,59405,Health and beauty,5,13.715,288.015,Standard Class,09/06/2020,Ewallet,9.80
+521-18-7827,Member,Male,United States,Great Falls,Montana,59405,Home and lifestyle,5,9.8475,206.7975,Standard Class,10/06/2020,Credit card,8.70
+220-28-1851,Normal,Male,United States,Great Falls,Montana,59405,Home and lifestyle,2,3.473,72.933,Standard Class,11/06/2020,Ewallet,
+600-38-9738,Member,Male,United States,Houston,Texas,77041,Sports and travel,5,17.98,377.58,Standard Class,12/06/2020,Credit card,4.30
+734-91-1155,Normal,Female,United States,Houston,Texas,77041,Electronic accessories,3,6.8565,143.9865,Standard Class,13/06/2020,Credit card,7.70
+451-28-5717,Member,Female,United States,Houston,Texas,77041,Home and lifestyle,6,24.951,523.971,Standard Class,14/06/2020,Cash,7.30
+609-81-8548,Member,Female,United States,Detroit,Michigan,48234,Home and lifestyle,6,11.232,235.872,First Class,15/06/2020,Credit card,5.90
+133-14-7229,Normal,Male,United States,Los Angeles,California,90032,Health and beauty,2,6.287,132.027,First Class,16/06/2020,Cash,5.00
+534-01-4457,Normal,Male,United States,Los Angeles,California,90032,Food and beverages,6,24.513,514.773,First Class,17/06/2020,Credit card,8.00
+719-89-8991,Member,Female,United States,Lawrence,Massachusetts,1841,Sports and travel,5,22.8525,479.9025,Standard Class,18/06/2020,Ewallet,7.10
+286-62-6248,Normal,Male,United States,Lakeland,Florida,33801,Fashion accessories,4,7.842,164.682,Standard Class,19/06/2020,Credit card,9.00
+339-38-9982,Member,Male,United States,Lakeland,Florida,33801,Fashion accessories,2,5.986,125.706,Standard Class,20/06/2020,Ewallet,6.70
+827-44-5872,Member,Female,United States,Philadelphia,Pennsylvania,19134,Food and beverages,10,27.18,570.78,Standard Class,21/06/2020,Credit card,6.10
+827-77-7633,Normal,Male,United States,Philadelphia,Pennsylvania,19134,Sports and travel,9,44.1405,926.9505,Standard Class,22/06/2020,Cash,9.30
+287-83-1405,Normal,Male,United States,Philadelphia,Pennsylvania,19134,Health and beauty,6,7.629,160.209,Standard Class,23/06/2020,Ewallet,7.00
+435-13-4908,Member,Male,United States,Los Angeles,California,90036,Fashion accessories,8,34.672,728.112,Second Class,24/06/2020,Credit card,7.20
+857-67-9057,Normal,Male,United States,Los Angeles,California,90032,Electronic accessories,10,11.475,240.975,Standard Class,25/06/2020,Ewallet,8.20
+236-27-1144,Normal,Female,United States,Montgomery,Alabama,36116,Food and beverages,9,7.3395,154.1295,Second Class,26/06/2020,Ewallet,8.40
+892-05-6689,Normal,Female,United States,Montgomery,Alabama,36116,Home and lifestyle,5,7.08,148.68,Second Class,27/06/2020,Ewallet,6.20
+583-41-4548,Normal,Male,United States,Mesa,Arizona,85204,Home and lifestyle,7,5.8345,122.5245,Standard Class,28/06/2020,Ewallet,7.40
+339-12-4827,Member,Female,United States,Chicago,Illinois,60653,Fashion accessories,1,3.698,77.658,Second Class,29/06/2020,Credit card,5.00
+643-38-7867,Normal,Male,United States,New York City,New York,10009,Home and lifestyle,1,4.897,102.837,Standard Class,30/06/2020,Ewallet,6.90
+308-81-0538,Normal,Female,United States,Henderson,Kentucky,42420,Fashion accessories,4,14.61,306.81,Standard Class,01/07/2020,Credit card,4.90
+358-88-9262,Member,Female,United States,Henderson,Kentucky,42420,Food and beverages,6,26.244,551.124,Standard Class,02/07/2020,Ewallet,5.10
+460-35-4390,Normal,Male,United States,Green Bay,Wisconsin,54302,Home and lifestyle,3,4.602,96.642,First Class,03/07/2020,Ewallet,
+343-87-0864,Member,Male,United States,Tucson,Arizona,85705,Health and beauty,1,3.794,79.674,First Class,04/07/2020,Credit card,7.10
+173-50-1108,Member,Female,United States,Springfield,Ohio,45503,Sports and travel,4,4.036,84.756,Standard Class,05/07/2020,Credit card,5.00
+243-47-2663,Member,Male,United States,Fort Worth,Texas,76106,Electronic accessories,6,5.631,118.251,Standard Class,06/07/2020,Credit card,5.50
+841-18-8232,Normal,Female,United States,Fort Worth,Texas,76106,Food and beverages,1,3.56,74.76,Standard Class,07/07/2020,Credit card,9.20
+701-23-5550,Member,Male,United States,Fort Worth,Texas,76106,Home and lifestyle,4,7.762,163.002,Standard Class,08/07/2020,Ewallet,4.90
+647-50-1224,Normal,Female,United States,New York City,New York,10035,Fashion accessories,10,14.71,308.91,First Class,09/07/2020,Ewallet,8.90
+541-48-8554,Normal,Male,United States,New York City,New York,10035,Sports and travel,9,27.4275,575.9775,First Class,10/07/2020,Credit card,6.00
+539-21-7227,Normal,Female,United States,Chicago,Illinois,60653,Sports and travel,5,12.885,270.585,Second Class,11/07/2020,Cash,4.20
+213-32-1216,Normal,Female,United States,Chicago,Illinois,60653,Electronic accessories,6,19.818,416.178,Second Class,12/07/2020,Cash,7.30
+747-58-7183,Normal,Male,United States,Chicago,Illinois,60653,Fashion accessories,3,8.5905,180.4005,Second Class,13/07/2020,Ewallet,6.50
+582-52-8065,Normal,Female,United States,San Francisco,California,94110,Fashion accessories,9,24.4395,513.2295,Second Class,14/07/2020,Cash,8.90
+210-57-1719,Normal,Female,United States,Jacksonville,Florida,32216,Health and beauty,9,26.208,550.368,First Class,15/07/2020,Cash,9.70
+399-69-4630,Normal,Male,United States,Houston,Texas,77070,Electronic accessories,6,6.663,139.923,Standard Class,16/07/2020,Credit card,8.60
+134-75-2619,Member,Male,United States,Anaheim,California,92804,Electronic accessories,7,6.762,142.002,Second Class,17/07/2020,Cash,6.90
+356-44-8813,Normal,Male,United States,Wilmington,North Carolina,28403,Home and lifestyle,3,5.622,118.062,Second Class,18/07/2020,Credit card,7.70
+198-66-9832,Member,Female,United States,Los Angeles,California,90045,Fashion accessories,2,7.204,151.284,Standard Class,19/07/2020,Cash,9.50
+283-26-5248,Member,Female,United States,Los Angeles,California,90045,Food and beverages,10,49.26,1034.46,Standard Class,20/07/2020,Ewallet,4.50
+712-39-0363,Member,Male,United States,Los Angeles,California,90045,Food and beverages,6,12.498,262.458,Standard Class,21/07/2020,Ewallet,5.60
+218-59-9410,Member,Female,United States,San Francisco,California,94110,Home and lifestyle,3,10.863,228.123,Second Class,22/07/2020,Ewallet,8.20
+174-75-0888,Normal,Male,United States,San Francisco,California,94110,Electronic accessories,9,9.711,203.931,Second Class,23/07/2020,Cash,7.30
+866-99-7614,Normal,Male,United States,Tampa,Florida,33614,Food and beverages,10,44.6,936.6,Second Class,24/07/2020,Credit card,4.40
+134-54-4720,Normal,Female,United States,Tampa,Florida,33614,Electronic accessories,8,16.968,356.328,Second Class,25/07/2020,Ewallet,
+760-90-2357,Member,Male,United States,Seattle,Washington,98105,Electronic accessories,6,22.353,469.413,First Class,26/07/2020,Ewallet,5.00
+514-37-2845,Normal,Male,United States,Seattle,Washington,98105,Fashion accessories,2,9.925,208.425,First Class,27/07/2020,Cash,9.00
+698-98-5964,Normal,Female,United States,Los Angeles,California,90008,Food and beverages,10,40.605,852.705,First Class,28/07/2020,Credit card,6.30
+718-57-9773,Normal,Female,United States,Seattle,Washington,98105,Sports and travel,10,24.665,517.965,Standard Class,29/07/2020,Credit card,9.40
+651-88-7328,Normal,Female,United States,Seattle,Washington,98105,Fashion accessories,9,29.583,621.243,Standard Class,30/07/2020,Cash,7.70
+241-11-2261,Normal,Female,United States,Seattle,Washington,98105,Fashion accessories,7,27.951,586.971,Standard Class,31/07/2020,Credit card,5.50
+408-26-9866,Normal,Female,United States,Seattle,Washington,98105,Sports and travel,7,25.893,543.753,Standard Class,01/08/2020,Ewallet,4.10
+834-83-1826,Member,Female,United States,New York City,New York,10024,Home and lifestyle,5,20.51,430.71,Standard Class,02/08/2020,Credit card,7.60
+343-61-3544,Member,Male,United States,New York City,New York,10024,Sports and travel,10,13.335,280.035,Standard Class,03/08/2020,Cash,8.60
+239-48-4278,Member,Male,United States,New York City,New York,10024,Food and beverages,7,3.5455,74.4555,Standard Class,04/08/2020,Ewallet,8.30
+355-34-6244,Normal,Male,United States,New York City,New York,10024,Food and beverages,2,7.239,152.019,Standard Class,05/08/2020,Credit card,8.10
+550-84-8664,Normal,Male,United States,Marysville,Washington,98270,Sports and travel,5,21.4775,451.0275,Standard Class,06/08/2020,Credit card,8.60
+339-96-8318,Member,Male,United States,Long Beach,California,90805,Fashion accessories,7,28.4585,597.6285,Second Class,07/08/2020,Ewallet,6.30
+458-61-0011,Normal,Male,United States,Long Beach,California,90805,Food and beverages,4,12.06,253.26,Second Class,08/08/2020,Cash,5.80
+592-34-6155,Normal,Male,United States,Long Beach,California,90805,Food and beverages,4,6.354,133.434,Second Class,09/08/2020,Ewallet,6.20
+797-88-0493,Normal,Female,United States,Chicago,Illinois,60610,Health and beauty,4,12.854,269.934,Standard Class,10/08/2020,Cash,7.70
+207-73-1363,Normal,Male,United States,Chicago,Illinois,60610,Health and beauty,2,6.951,145.971,Standard Class,11/08/2020,Ewallet,8.10
+390-31-6381,Normal,Male,United States,Los Angeles,California,90004,Food and beverages,3,4.083,85.743,Standard Class,12/08/2020,Cash,
+443-82-0585,Member,Female,United States,Denver,Colorado,80219,Health and beauty,4,15.536,326.256,Standard Class,13/08/2020,Cash,
+339-18-7061,Member,Female,United States,Denver,Colorado,80219,Fashion accessories,2,9.298,195.258,Standard Class,14/08/2020,Credit card,
+359-90-3665,Member,Female,United States,Denver,Colorado,80219,Fashion accessories,4,3.616,75.936,Standard Class,15/08/2020,Credit card,
+375-72-3056,Normal,Male,United States,Denver,Colorado,80219,Sports and travel,3,9.459,198.639,Standard Class,16/08/2020,Ewallet,
+127-47-6963,Normal,Male,United States,Denver,Colorado,80219,Health and beauty,4,10.342,217.182,Standard Class,17/08/2020,Credit card,9.80
+278-86-2735,Normal,Female,United States,Richmond,Kentucky,40475,Food and beverages,3,7.851,164.871,Standard Class,18/08/2020,Cash,9.20
+695-28-6250,Normal,Female,United States,Richmond,Kentucky,40475,Sports and travel,5,10.765,226.065,Standard Class,19/08/2020,Ewallet,7.70
+379-17-6588,Normal,Male,United States,Salem,Oregon,97301,Fashion accessories,10,29.805,625.905,Standard Class,20/08/2020,Cash,5.30
+227-50-3718,Normal,Male,United States,Salem,Oregon,97301,Health and beauty,5,3.655,76.755,Standard Class,21/08/2020,Cash,4.40
+302-15-2162,Member,Male,United States,Salem,Oregon,97301,Health and beauty,6,13.959,293.139,Standard Class,22/08/2020,Credit card,4.30
+788-07-8452,Member,Female,United States,Salem,Oregon,97301,Home and lifestyle,7,8.484,178.164,Standard Class,23/08/2020,Ewallet,9.40
+560-49-6611,Member,Female,United States,Laredo,Texas,78041,Sports and travel,1,2.279,47.859,Standard Class,24/08/2020,Cash,9.80
+880-35-0356,Member,Female,United States,Laredo,Texas,78041,Sports and travel,3,11.28,236.88,Standard Class,25/08/2020,Ewallet,4.80
+585-11-6748,Member,Male,United States,San Diego,California,92024,Sports and travel,3,14.52,304.92,Standard Class,26/08/2020,Cash,5.30
+470-31-3286,Normal,Male,United States,San Diego,California,92024,Health and beauty,3,2.223,46.683,Standard Class,27/08/2020,Credit card,8.70
+152-68-2907,Normal,Male,United States,San Diego,California,92024,Food and beverages,3,7.83,164.43,Standard Class,28/08/2020,Credit card,9.50
+123-35-4896,Normal,Female,United States,San Diego,California,92024,Sports and travel,9,20.997,440.937,Standard Class,29/08/2020,Ewallet,5.30
+258-69-7810,Normal,Female,United States,Philadelphia,Pennsylvania,19134,Fashion accessories,5,9.2125,193.4625,First Class,30/08/2020,Cash,9.20
+334-64-2006,Member,Female,United States,Philadelphia,Pennsylvania,19120,Home and lifestyle,2,7.032,147.672,Standard Class,31/08/2020,Ewallet,9.60
+219-61-4139,Normal,Male,United States,Philadelphia,Pennsylvania,19120,Electronic accessories,1,4.154,87.234,Standard Class,01/09/2020,Ewallet,6.40
+881-41-7302,Normal,Female,United States,Philadelphia,Pennsylvania,19120,Fashion accessories,1,3.2495,68.2395,Standard Class,02/09/2020,Credit card,4.50
+373-09-4567,Normal,Male,United States,Tampa,Florida,33614,Food and beverages,10,38.78,814.38,Standard Class,03/09/2020,Ewallet,6.90
+642-30-6693,Normal,Female,United States,Tampa,Florida,33614,Sports and travel,6,16.353,343.413,Standard Class,04/09/2020,Ewallet,7.80
+484-22-8230,Member,Female,United States,Tampa,Florida,33614,Fashion accessories,7,18.1615,381.3915,Standard Class,05/09/2020,Cash,4.50
+830-58-2383,Normal,Male,United States,Tampa,Florida,33614,Home and lifestyle,4,6.35,133.35,Standard Class,06/09/2020,Cash,8.60
+559-98-9873,Member,Female,United States,Tampa,Florida,33614,Fashion accessories,7,18.7775,394.3275,Standard Class,07/09/2020,Ewallet,5.20
+544-32-5024,Member,Female,United States,Philadelphia,Pennsylvania,19134,Food and beverages,4,9.958,209.118,Standard Class,08/09/2020,Credit card,6.40
+318-12-0304,Normal,Male,United States,Philadelphia,Pennsylvania,19134,Fashion accessories,1,1.5305,32.1405,Standard Class,09/09/2020,Ewallet,5.20
+349-97-8902,Member,Male,United States,Philadelphia,Pennsylvania,19134,Food and beverages,2,5.789,121.569,Standard Class,10/09/2020,Ewallet,8.90
+421-95-9805,Normal,Female,United States,Dallas,Texas,75217,Electronic accessories,1,1.448,30.408,First Class,11/09/2020,Credit card,6.20
+277-35-5865,Member,Female,United States,Dallas,Texas,75217,Food and beverages,9,44.5365,935.2665,First Class,12/09/2020,Cash,6.70
+789-23-8625,Member,Male,United States,Philadelphia,Pennsylvania,19143,Fashion accessories,3,13.983,293.643,Second Class,13/09/2020,Cash,7.20
+284-54-4231,Member,Male,United States,Philadelphia,Pennsylvania,19143,Sports and travel,1,4.0465,84.9765,Second Class,14/09/2020,Credit card,9.00
+443-59-0061,Member,Male,United States,Grove City,Ohio,43123,Food and beverages,10,33.725,708.225,Second Class,15/09/2020,Ewallet,4.20
+509-29-3912,Member,Female,United States,Grove City,Ohio,43123,Sports and travel,9,17.424,365.904,Second Class,16/09/2020,Ewallet,4.20
+327-40-9673,Member,Male,United States,New York City,New York,10011,Sports and travel,6,21.78,457.38,Second Class,17/09/2020,Cash,6.90
+840-19-2096,Member,Male,United States,New York City,New York,10011,Electronic accessories,5,21.9775,461.5275,Second Class,18/09/2020,Ewallet,4.40
+828-46-6863,Member,Male,United States,New York City,New York,10011,Food and beverages,6,29.559,620.739,Second Class,19/09/2020,Credit card,4.00
+641-96-3695,Member,Female,United States,New York City,New York,10011,Fashion accessories,6,13.038,273.798,Second Class,20/09/2020,Ewallet,8.50
+420-97-3340,Normal,Female,United States,New York City,New York,10011,Food and beverages,3,10.752,225.792,Second Class,21/09/2020,Credit card,9.20
+436-54-4512,Member,Female,United States,Chicago,Illinois,60610,Food and beverages,1,4.5805,96.1905,Standard Class,22/09/2020,Cash,9.80
+670-79-6321,Member,Female,United States,Dearborn,Michigan,48126,Home and lifestyle,7,33.1065,695.2365,Standard Class,23/09/2020,Credit card,4.90
+852-62-7105,Normal,Female,United States,Dearborn,Michigan,48126,Fashion accessories,10,41.625,874.125,Standard Class,24/09/2020,Credit card,4.40
+598-06-7312,Member,Male,United States,Dearborn,Michigan,48126,Fashion accessories,1,4.5675,95.9175,Standard Class,25/09/2020,Cash,6.80
+135-13-8269,Member,Female,United States,Dearborn,Michigan,48126,Food and beverages,2,7.888,165.648,Standard Class,26/09/2020,Cash,9.10
+816-57-2053,Normal,Male,United States,New York City,New York,10009,Sports and travel,2,6.087,127.827,Standard Class,27/09/2020,Ewallet,8.70
+628-90-8624,Member,Male,United States,Seattle,Washington,98115,Health and beauty,10,41.29,867.09,Standard Class,28/09/2020,Cash,5.00
+856-66-2701,Member,Male,United States,San Francisco,California,94122,Home and lifestyle,3,7.995,167.895,Standard Class,29/09/2020,Ewallet,7.50
+308-39-1707,Normal,Female,United States,San Francisco,California,94122,Fashion accessories,1,0.6045,12.6945,Standard Class,30/09/2020,Credit card,8.20
+149-61-1929,Normal,Male,United States,Aurora,Colorado,80013,Sports and travel,10,32.095,673.995,Second Class,01/10/2020,Credit card,6.70
+655-07-2265,Normal,Male,United States,Aurora,Colorado,80013,Electronic accessories,3,11.7465,246.6765,Second Class,02/10/2020,Ewallet,5.40
+589-02-8023,Member,Male,United States,Aurora,Colorado,80013,Food and beverages,2,8.377,175.917,Second Class,03/10/2020,Credit card,7.00
+420-04-7590,Normal,Male,United States,Miami,Florida,33180,Home and lifestyle,3,14.955,314.055,Second Class,04/10/2020,Ewallet,4.70
+182-88-2763,Member,Male,United States,Miami,Florida,33180,Food and beverages,3,11.9865,251.7165,Second Class,05/10/2020,Credit card,5.00
+188-55-0967,Member,Male,United States,Warner Robins,Georgia,31088,Health and beauty,10,33.235,697.935,Second Class,06/10/2020,Credit card,5.00
+610-46-4100,Normal,Male,United States,Aurora,Colorado,80013,Health and beauty,7,10.1325,212.7825,Standard Class,07/10/2020,Credit card,6.00
+318-81-2368,Normal,Female,United States,Aurora,Colorado,80013,Electronic accessories,1,2.31,48.51,Standard Class,08/10/2020,Cash,6.30
+364-33-8584,Member,Female,United States,Vallejo,California,94591,Food and beverages,5,4.4075,92.5575,Standard Class,09/10/2020,Cash,8.50
+665-63-9737,Normal,Male,United States,Vallejo,California,94591,Fashion accessories,3,7.863,165.123,Standard Class,10/10/2020,Ewallet,7.50
+695-09-5146,Member,Female,United States,Minneapolis,Minnesota,55407,Food and beverages,3,14.8185,311.1885,Standard Class,11/10/2020,Ewallet,6.40
+155-45-3814,Member,Female,United States,Mission Viejo,California,92691,Electronic accessories,8,35.42,743.82,Second Class,12/10/2020,Ewallet,4.70
+794-32-2436,Member,Male,United States,Mission Viejo,California,92691,Electronic accessories,2,5.567,116.907,Second Class,13/10/2020,Ewallet,6.00
+131-15-8856,Member,Female,United States,Rochester Hills,Michigan,48307,Food and beverages,8,29.008,609.168,Standard Class,14/10/2020,Credit card,4.00
+273-84-2164,Member,Male,United States,Plainfield,New Jersey,7060,Electronic accessories,5,3.0125,63.2625,Standard Class,15/10/2020,Ewallet,5.50
+706-36-6154,Member,Male,United States,Columbus,Indiana,47201,Home and lifestyle,9,8.712,182.952,Standard Class,16/10/2020,Ewallet,8.70
+778-89-7974,Normal,Male,United States,Sierra Vista,Arizona,85635,Health and beauty,6,21.063,442.323,Standard Class,17/10/2020,Cash,7.40
+574-31-8277,Member,Male,United States,Sierra Vista,Arizona,85635,Fashion accessories,1,1.6815,35.3115,Standard Class,18/10/2020,Cash,5.60
+859-71-0933,Member,Female,United States,Vancouver,Washington,98661,Sports and travel,2,1.549,32.529,Second Class,19/10/2020,Cash,6.30
+740-11-5257,Normal,Male,United States,Vancouver,Washington,98661,Electronic accessories,10,12.37,259.77,Second Class,20/10/2020,Cash,7.10
+369-82-2676,Normal,Male,United States,Vancouver,Washington,98661,Electronic accessories,5,18.915,397.215,Second Class,21/10/2020,Ewallet,
+563-47-4072,Normal,Female,United States,New York City,New York,10024,Health and beauty,6,16.743,351.603,Standard Class,22/10/2020,Cash,9.90
+742-04-5161,Member,Male,United States,New York City,New York,10035,Home and lifestyle,10,36.39,764.19,Standard Class,23/10/2020,Cash,7.30
+149-15-7606,Member,Male,United States,New York City,New York,10035,Sports and travel,9,16.794,352.674,Standard Class,24/10/2020,Ewallet,5.10
+133-77-3154,Member,Male,United States,Columbus,Ohio,43229,Fashion accessories,4,12.036,252.756,Standard Class,25/10/2020,Cash,9.40
+169-52-4504,Normal,Female,United States,Columbus,Ohio,43229,Electronic accessories,3,2.3535,49.4235,Standard Class,26/10/2020,Ewallet,5.80
+250-81-7186,Normal,Female,United States,Columbus,Ohio,43229,Electronic accessories,1,4.9845,104.6745,Standard Class,27/10/2020,Credit card,8.00
+562-12-5430,Member,Female,United States,Aurora,Illinois,60505,Fashion accessories,3,13.2225,277.6725,Same Day,28/10/2020,Ewallet,7.90
+816-72-8853,Member,Female,United States,Aurora,Illinois,60505,Sports and travel,5,6.9825,146.6325,Same Day,29/10/2020,Cash,5.90
+491-38-3499,Member,Male,United States,Arlington,Texas,76017,Fashion accessories,1,2.7725,58.2225,Standard Class,30/10/2020,Credit card,4.90
+322-02-2271,Normal,Female,United States,Arlington,Texas,76017,Sports and travel,3,6.4455,135.3555,Standard Class,31/10/2020,Cash,9.30
+842-29-4695,Member,Male,United States,Arlington,Texas,76017,Sports and travel,7,5.999,125.979,Standard Class,01/11/2020,Credit card,7.90
+725-67-2480,Member,Female,United States,Arlington,Texas,76017,Fashion accessories,6,17.625,370.125,Standard Class,02/11/2020,Credit card,5.90
+641-51-2661,Member,Female,United States,New York City,New York,10011,Food and beverages,10,43.55,914.55,Standard Class,03/11/2020,Credit card,9.90
+714-02-3114,Normal,Female,United States,Louisville,Kentucky,40214,Sports and travel,2,9.88,207.48,Same Day,04/11/2020,Cash,7.70
+518-17-2983,Normal,Female,United States,Dallas,Texas,75081,Fashion accessories,4,9.726,204.246,Second Class,05/11/2020,Ewallet,7.60
+779-42-2410,Member,Male,United States,Dallas,Texas,75081,Food and beverages,3,8.661,181.881,Second Class,06/11/2020,Ewallet,7.70
+190-14-3147,Normal,Female,United States,Dallas,Texas,75081,Health and beauty,4,3.594,75.474,Second Class,07/11/2020,Ewallet,6.40
+408-66-6712,Member,Female,United States,Cleveland,Ohio,44105,Health and beauty,6,14.313,300.573,First Class,08/11/2020,Ewallet,4.40
+679-22-6530,Normal,Female,United States,Chicago,Illinois,60653,Sports and travel,2,4.062,85.302,Standard Class,09/11/2020,Credit card,4.10
+588-47-8641,Member,Male,United States,Chicago,Illinois,60653,Fashion accessories,10,28.02,588.42,Standard Class,10/11/2020,Ewallet,4.40
+642-61-4706,Member,Male,United States,Chicago,Illinois,60653,Food and beverages,2,9.34,196.14,Standard Class,11/11/2020,Cash,5.50
+576-31-4774,Normal,Female,United States,Quincy,Illinois,62301,Health and beauty,3,11.0115,231.2415,Standard Class,12/11/2020,Ewallet,
+556-41-6224,Normal,Male,United States,Columbus,Indiana,47201,Health and beauty,8,13.456,282.576,First Class,13/11/2020,Credit card,9.30
+811-03-8790,Normal,Female,United States,Columbus,Indiana,47201,Electronic accessories,10,22.74,477.54,First Class,14/11/2020,Credit card,4.80
+242-11-3142,Member,Male,United States,Columbus,Indiana,47201,Fashion accessories,2,8.377,175.917,First Class,15/11/2020,Cash,4.60
+752-23-3760,Member,Female,United States,Tyler,Texas,75701,Sports and travel,7,22.428,470.988,Standard Class,16/11/2020,Credit card,7.30
+274-05-5470,Member,Female,United States,Tyler,Texas,75701,Food and beverages,4,14.694,308.574,Standard Class,17/11/2020,Cash,6.00
+648-94-3045,Normal,Male,United States,Tyler,Texas,75701,Health and beauty,10,29.475,618.975,Standard Class,18/11/2020,Ewallet,8.10
+130-67-4723,Member,Male,United States,Tyler,Texas,75701,Food and beverages,6,14.55,305.55,Standard Class,19/11/2020,Ewallet,9.40
+528-87-5606,Member,Female,United States,New York City,New York,10024,Electronic accessories,1,1.974,41.454,Standard Class,20/11/2020,Cash,6.50
+320-85-2052,Normal,Female,United States,New York City,New York,10024,Sports and travel,1,1.7405,36.5505,Standard Class,21/11/2020,Credit card,7.00
+370-96-0655,Normal,Female,United States,New York City,New York,10024,Fashion accessories,6,14.796,310.716,Standard Class,22/11/2020,Ewallet,7.10
+105-10-6182,Member,Male,United States,Burlington,North Carolina,27217,Fashion accessories,2,2.148,45.108,Same Day,23/11/2020,Ewallet,6.60
+510-79-0415,Member,Female,United States,Burlington,North Carolina,27217,Sports and travel,6,6.924,145.404,Same Day,24/11/2020,Ewallet,4.90
+241-96-5076,Member,Female,United States,Jackson,Mississippi,39212,Home and lifestyle,2,4.91,103.11,First Class,25/11/2020,Credit card,6.40
+767-97-4650,Member,Female,United States,Jackson,Mississippi,39212,Sports and travel,2,6.483,136.143,First Class,26/11/2020,Credit card,8.00
+648-83-1321,Member,Male,United States,Jackson,Mississippi,39212,Home and lifestyle,10,31.78,667.38,First Class,27/11/2020,Cash,4.30
+173-57-2300,Member,Male,United States,New York City,New York,10035,Sports and travel,2,7.288,153.048,Standard Class,28/11/2020,Cash,6.10
+305-03-2383,Normal,Female,United States,Waynesboro,Virginia,22980,Food and beverages,3,10.065,211.365,Second Class,29/11/2020,Cash,7.50
+394-55-6384,Member,Female,United States,Waynesboro,Virginia,22980,Sports and travel,9,31.5855,663.2955,Second Class,30/11/2020,Cash,6.70
+266-20-6657,Member,Male,United States,Waynesboro,Virginia,22980,Food and beverages,7,19.264,404.544,Second Class,01/12/2020,Ewallet,5.20
+689-05-1884,Member,Male,United States,Los Angeles,California,90036,Health and beauty,10,24.315,510.615,Standard Class,02/12/2020,Cash,8.80
+196-01-2849,Member,Female,United States,Los Angeles,California,90036,Fashion accessories,7,25.683,539.343,Standard Class,03/12/2020,Cash,9.50
+372-62-5264,Normal,Female,United States,Chester,Pennsylvania,19013,Food and beverages,9,23.67,497.07,First Class,04/12/2020,Cash,
+800-09-8606,Member,Female,United States,Chester,Pennsylvania,19013,Home and lifestyle,5,21.8425,458.6925,First Class,05/12/2020,Cash,6.60
+182-52-7000,Member,Female,United States,Chester,Pennsylvania,19013,Sports and travel,4,5.408,113.568,First Class,06/12/2020,Ewallet,6.90
+826-58-8051,Normal,Male,United States,Chester,Pennsylvania,19013,Home and lifestyle,4,12.438,261.198,First Class,07/12/2020,Ewallet,4.30
+868-06-0466,Member,Male,United States,Chester,Pennsylvania,19013,Electronic accessories,9,31.311,657.531,First Class,08/12/2020,Credit card,7.80
+751-41-9720,Normal,Male,United States,Chester,Pennsylvania,19013,Home and lifestyle,10,48.75,1023.75,First Class,09/12/2020,Ewallet,8.00
+626-43-7888,Normal,Female,United States,Chester,Pennsylvania,19013,Fashion accessories,8,24.164,507.444,First Class,10/12/2020,Ewallet,9.60
+176-64-7711,Normal,Male,United States,Cleveland,Ohio,44105,Food and beverages,3,4.848,101.808,Standard Class,11/12/2020,Credit card,4.30
+191-29-0321,Member,Female,United States,Seattle,Washington,98103,Fashion accessories,10,9.885,207.585,Second Class,12/12/2020,Credit card,5.00
+729-06-2010,Member,Male,United States,Long Beach,California,90805,Health and beauty,9,36.2115,760.4415,Standard Class,13/12/2020,Cash,9.20
+640-48-5028,Member,Female,United States,Cary,North Carolina,27511,Home and lifestyle,9,39.7755,835.2855,Standard Class,14/12/2020,Cash,6.30
+186-79-9562,Normal,Male,United States,Cary,North Carolina,27511,Health and beauty,7,25.1195,527.5095,Standard Class,15/12/2020,Cash,8.90
+834-45-5519,Normal,Female,United States,Cary,North Carolina,27511,Electronic accessories,4,8.6,180.6,Standard Class,16/12/2020,Ewallet,7.60
+162-65-8559,Member,Male,United States,New York City,New York,10035,Food and beverages,1,3.449,72.429,First Class,17/12/2020,Cash,4.80
+760-27-5490,Normal,Male,United States,New York City,New York,10035,Fashion accessories,8,6.248,131.208,First Class,18/12/2020,Ewallet,9.10
+445-30-9252,Normal,Male,United States,New York City,New York,10035,Sports and travel,3,3.855,80.955,First Class,19/12/2020,Ewallet,6.10
+786-94-2700,Member,Male,United States,New York City,New York,10035,Food and beverages,6,24.186,507.906,First Class,20/12/2020,Cash,9.10
+728-88-7867,Member,Female,United States,Palm Coast,Florida,32137,Home and lifestyle,4,15.106,317.226,Standard Class,21/12/2020,Ewallet,8.30
+183-21-3799,Normal,Female,United States,Mount Vernon,New York,10550,Electronic accessories,9,34.9335,733.6035,Standard Class,22/12/2020,Ewallet,7.20
+268-20-3585,Normal,Female,United States,Mount Vernon,New York,10550,Health and beauty,9,6.2325,130.8825,Standard Class,23/12/2020,Ewallet,6.00
+735-32-9839,Member,Male,United States,Mount Vernon,New York,10550,Fashion accessories,8,39.48,829.08,Standard Class,24/12/2020,Ewallet,8.50
+258-92-7466,Normal,Female,United States,Seattle,Washington,98105,Health and beauty,5,8.92,187.32,Second Class,25/12/2020,Credit card,6.60
+857-16-3520,Member,Female,United States,Dover,Delaware,19901,Fashion accessories,7,25.011,525.231,First Class,26/12/2020,Ewallet,
+482-17-1179,Member,Male,United States,Newark,Ohio,43055,Electronic accessories,3,1.791,37.611,Standard Class,27/12/2020,Credit card,8.10
+788-21-5741,Normal,Male,United States,Orem,Utah,84057,Fashion accessories,3,6.807,142.947,Standard Class,28/12/2020,Credit card,7.20
+821-14-9046,Member,Female,United States,Orem,Utah,84057,Fashion accessories,6,5.244,110.124,Standard Class,29/12/2020,Credit card,6.10
+418-05-0656,Normal,Female,United States,Los Angeles,California,90045,Fashion accessories,7,8.946,187.866,Standard Class,30/12/2020,Cash,7.10
+678-79-0726,Member,Female,United States,Detroit,Michigan,48205,Sports and travel,9,40.7835,856.4535,Standard Class,31/12/2020,Cash,5.10
+776-68-1096,Normal,Male,United States,Detroit,Michigan,48205,Home and lifestyle,3,6.618,138.978,Standard Class,01/01/2021,Credit card,7.90
+592-46-1692,Member,Female,United States,Philadelphia,Pennsylvania,19140,Food and beverages,7,12.8695,270.2595,Standard Class,02/01/2021,Cash,7.40
+434-35-9162,Member,Male,United States,Hialeah,Florida,33012,Food and beverages,4,4.668,98.028,Standard Class,03/01/2021,Ewallet,7.40
+149-14-0304,Member,Female,United States,Austin,Texas,78745,Health and beauty,8,11.4,239.4,Standard Class,04/01/2021,Cash,6.60
+442-44-6497,Member,Male,United States,Austin,Texas,78745,Home and lifestyle,3,8.3355,175.0455,Standard Class,05/01/2021,Credit card,5.90
+174-64-0215,Normal,Male,United States,Oceanside,New York,11572,Sports and travel,10,34.87,732.27,First Class,06/01/2021,Credit card,8.90
+210-74-9613,Normal,Male,United States,Oceanside,New York,11572,Fashion accessories,4,19.452,408.492,First Class,07/01/2021,Ewallet,6.80
+299-29-0180,Member,Female,United States,Oceanside,New York,11572,Home and lifestyle,7,18.263,383.523,First Class,08/01/2021,Cash,9.30
+247-11-2470,Member,Female,United States,Oceanside,New York,11572,Fashion accessories,4,4.464,93.744,First Class,09/01/2021,Credit card,4.40
+635-28-5728,Normal,Male,United States,Oceanside,New York,11572,Health and beauty,3,8.4,176.4,First Class,10/01/2021,Ewallet,4.80
+756-49-0168,Member,Male,United States,Seattle,Washington,98115,Fashion accessories,1,0.985,20.685,Standard Class,11/01/2021,Ewallet,9.50
+438-23-1242,Normal,Male,United States,Seattle,Washington,98115,Electronic accessories,7,26.558,557.718,Standard Class,12/01/2021,Ewallet,8.90
+238-45-6950,Member,Male,United States,Seattle,Washington,98115,Food and beverages,1,2.686,56.406,Standard Class,13/01/2021,Ewallet,6.40
+607-65-2441,Member,Male,United States,Seattle,Washington,98115,Health and beauty,10,40.975,860.475,Standard Class,14/01/2021,Credit card,6.00
+386-27-7606,Member,Female,United States,Seattle,Washington,98115,Home and lifestyle,7,28.42,596.82,Standard Class,15/01/2021,Credit card,8.10
+137-63-5492,Normal,Male,United States,Seattle,Washington,98115,Electronic accessories,10,29.38,616.98,Standard Class,16/01/2021,Ewallet,9.00
+197-77-7132,Member,Male,United States,San Francisco,California,94110,Electronic accessories,8,36.624,769.104,Standard Class,17/01/2021,Ewallet,
+805-86-0265,Normal,Male,United States,Naperville,Illinois,60540,Home and lifestyle,9,42.282,887.922,Standard Class,18/01/2021,Cash,9.80
+733-29-1227,Normal,Male,United States,Naperville,Illinois,60540,Home and lifestyle,7,19.4635,408.7335,Standard Class,19/01/2021,Cash,8.50
+451-73-2711,Normal,Male,United States,Naperville,Illinois,60540,Food and beverages,1,4.2415,89.0715,Standard Class,20/01/2021,Ewallet,8.80
+373-14-0504,Member,Female,United States,Dallas,Texas,75220,Sports and travel,2,7.163,150.423,Standard Class,21/01/2021,Ewallet,8.80
+546-80-2899,Member,Male,United States,Dallas,Texas,75220,Home and lifestyle,2,3.769,79.149,Standard Class,22/01/2021,Ewallet,9.50
+345-68-9016,Member,Female,United States,Dallas,Texas,75220,Sports and travel,8,12.668,266.028,Standard Class,23/01/2021,Credit card,5.60
+390-17-5806,Member,Female,United States,Dallas,Texas,75220,Food and beverages,1,1.921,40.341,Standard Class,24/01/2021,Cash,8.60
+457-13-1708,Member,Male,United States,San Diego,California,92105,Fashion accessories,10,32.615,684.915,Same Day,25/01/2021,Credit card,5.20
+664-14-2882,Member,Female,United States,San Diego,California,92105,Home and lifestyle,5,2.6325,55.2825,Same Day,26/01/2021,Credit card,5.80
+487-79-6868,Member,Female,United States,Evanston,Illinois,60201,Home and lifestyle,9,5.5305,116.1405,Second Class,27/01/2021,Credit card,8.00
+314-23-4520,Member,Male,United States,Trenton,Michigan,48183,Health and beauty,7,28.4305,597.0405,Standard Class,28/01/2021,Cash,9.00
+210-30-7976,Member,Female,United States,Trenton,Michigan,48183,Fashion accessories,4,4.464,93.744,Standard Class,29/01/2021,Ewallet,4.10
+585-86-8361,Normal,Female,United States,Trenton,Michigan,48183,Food and beverages,5,6.82,143.22,Standard Class,30/01/2021,Credit card,8.60
+807-14-7833,Member,Female,United States,Trenton,Michigan,48183,Electronic accessories,10,8.71,182.91,Standard Class,31/01/2021,Ewallet,7.00
+775-72-1988,Normal,Male,United States,San Francisco,California,94110,Home and lifestyle,5,18.32,384.72,First Class,01/02/2021,Ewallet,8.40
+288-38-3758,Member,Female,United States,Los Angeles,California,90036,Fashion accessories,3,12.7305,267.3405,Standard Class,02/02/2021,Ewallet,7.40
+652-43-6591,Normal,Female,United States,Jacksonville,Florida,32216,Fashion accessories,8,38.916,817.236,Standard Class,03/02/2021,Credit card,6.20
+785-96-0615,Member,Female,United States,Cottage Grove,Minnesota,55016,Electronic accessories,8,14.296,300.216,Standard Class,04/02/2021,Ewallet,4.90
+406-46-7107,Normal,Female,United States,Cottage Grove,Minnesota,55016,Home and lifestyle,6,28.956,608.076,Standard Class,05/02/2021,Cash,4.50
+250-17-5703,Member,Male,United States,New York City,New York,10009,Food and beverages,10,9.425,197.925,Standard Class,06/02/2021,Ewallet,5.60
+156-95-3964,Normal,Female,United States,Green Bay,Wisconsin,54302,Food and beverages,4,11.078,232.638,Standard Class,07/02/2021,Ewallet,8.00
+842-40-8179,Member,Female,United States,Los Angeles,California,90004,Food and beverages,10,38.6,810.6,Standard Class,08/02/2021,Credit card,
+525-09-8450,Normal,Male,United States,Atlanta,Georgia,30318,Electronic accessories,10,36.065,757.365,Standard Class,09/02/2021,Credit card,4.20
+410-67-1709,Member,Female,United States,Columbus,Ohio,43229,Fashion accessories,8,25.552,536.592,Standard Class,10/02/2021,Ewallet,9.90
+587-73-4862,Member,Female,United States,Bossier City,Louisiana,71111,Health and beauty,5,2.6725,56.1225,Second Class,11/02/2021,Ewallet,7.60
+787-87-2010,Member,Male,United States,Bossier City,Louisiana,71111,Health and beauty,4,11.1,233.1,Second Class,12/02/2021,Credit card,6.60
+593-14-4239,Normal,Female,United States,Bossier City,Louisiana,71111,Home and lifestyle,8,38.184,801.864,Second Class,13/02/2021,Ewallet,4.70
+801-88-0346,Normal,Female,United States,Bossier City,Louisiana,71111,Fashion accessories,3,11.409,239.589,Second Class,14/02/2021,Credit card,9.80
+388-76-2555,Normal,Male,United States,Bossier City,Louisiana,71111,Sports and travel,6,4.107,86.247,Second Class,15/02/2021,Cash,6.30
+711-31-1234,Normal,Female,United States,Saint Petersburg,Florida,33710,Electronic accessories,4,19.128,401.688,Standard Class,16/02/2021,Cash,7.90
+886-54-6089,Normal,Female,United States,Arlington,Virginia,22204,Home and lifestyle,6,3.429,72.009,Standard Class,17/02/2021,Cash,7.70
+707-32-7409,Member,Female,United States,Des Moines,Iowa,50315,Sports and travel,4,19.108,401.268,Standard Class,18/02/2021,Ewallet,4.50
+759-98-4285,Member,Female,United States,Des Moines,Iowa,50315,Health and beauty,7,30.0545,631.1445,Standard Class,19/02/2021,Credit card,8.00
+201-63-8275,Member,Female,United States,Des Moines,Iowa,50315,Sports and travel,7,23.7965,499.7265,Standard Class,20/02/2021,Ewallet,5.70
+471-06-8611,Normal,Female,United States,Des Moines,Iowa,50315,Food and beverages,1,2.621,55.041,Standard Class,21/02/2021,Credit card,6.30
+200-16-5952,Member,Male,United States,Des Moines,Iowa,50315,Food and beverages,2,6.565,137.865,Standard Class,22/02/2021,Cash,6.00
+120-54-2248,Normal,Female,United States,Des Moines,Iowa,50315,Food and beverages,5,7.215,151.515,Standard Class,23/02/2021,Credit card,8.00
+102-77-2261,Member,Male,United States,Cincinnati,Ohio,45231,Health and beauty,7,22.8585,480.0285,Standard Class,24/02/2021,Credit card,4.20
+875-31-8302,Normal,Male,United States,San Francisco,California,94110,Sports and travel,1,4.669,98.049,First Class,25/02/2021,Cash,9.60
+102-06-2002,Member,Male,United States,San Francisco,California,94110,Sports and travel,5,6.3125,132.5625,First Class,26/02/2021,Cash,6.10
+457-94-0464,Member,Male,United States,San Francisco,California,94110,Electronic accessories,9,39.5415,830.3715,First Class,27/02/2021,Ewallet,5.60
+629-42-4133,Normal,Male,United States,San Francisco,California,94110,Health and beauty,8,8.72,183.12,First Class,28/02/2021,Cash,8.30
+534-53-3526,Normal,Female,United States,Columbus,Ohio,43229,Sports and travel,4,18.952,397.992,Second Class,01/03/2021,Ewallet,7.80
+307-04-2070,Member,Female,United States,Columbus,Ohio,43229,Fashion accessories,1,1.531,32.151,Second Class,02/03/2021,Credit card,
+468-99-7231,Normal,Female,United States,Columbus,Ohio,43229,Home and lifestyle,8,17.604,369.684,Second Class,03/03/2021,Cash,8.80
+516-77-6464,Member,Female,United States,Columbus,Ohio,43229,Health and beauty,5,2.54,53.34,Second Class,04/03/2021,Ewallet,4.10
+404-91-5964,Normal,Male,United States,Columbia,South Carolina,29203,Electronic accessories,7,26.103,548.163,Standard Class,05/03/2021,Credit card,9.00
+886-77-9084,Normal,Male,United States,Lancaster,California,93534,Electronic accessories,8,28.756,603.876,Second Class,06/03/2021,Ewallet,5.50
+790-38-4466,Normal,Female,United States,Lancaster,California,93534,Health and beauty,5,2.7475,57.6975,Standard Class,07/03/2021,Credit card,9.30
+704-10-4056,Member,Male,United States,Richmond,Virginia,23223,Health and beauty,3,9.0705,190.4805,Standard Class,08/03/2021,Credit card,5.60
+497-37-6538,Normal,Male,United States,Richmond,Virginia,23223,Sports and travel,7,20.6185,432.9885,Standard Class,09/03/2021,Ewallet,9.70
+651-96-5970,Normal,Male,United States,Richmond,Virginia,23223,Fashion accessories,1,2.3205,48.7305,Standard Class,10/03/2021,Cash,4.00
+400-80-4065,Member,Male,United States,Richmond,Virginia,23223,Health and beauty,4,13.71,287.91,Standard Class,11/03/2021,Ewallet,9.20
+744-16-7898,Normal,Female,United States,Asheville,North Carolina,28806,Home and lifestyle,10,48.685,1022.385,Same Day,12/03/2021,Cash,4.90
+263-12-5321,Member,Male,United States,San Francisco,California,94110,Electronic accessories,7,32.41,680.61,Standard Class,13/03/2021,Ewallet,9.30
+702-72-0487,Normal,Female,United States,San Francisco,California,94110,Electronic accessories,2,4.661,97.881,Standard Class,14/03/2021,Credit card,6.60
+605-83-1050,Normal,Male,United States,Rochester,Minnesota,55901,Fashion accessories,2,2.718,57.078,Standard Class,15/03/2021,Ewallet,4.30
+443-60-9639,Member,Female,United States,Rochester,New York,14609,Home and lifestyle,1,3.0435,63.9135,First Class,16/03/2021,Cash,5.50
+864-24-7918,Member,Female,United States,Rochester,New York,14609,Sports and travel,10,12.245,257.145,First Class,17/03/2021,Cash,8.10
+359-94-5395,Normal,Male,United States,Rochester,New York,14609,Health and beauty,1,4.639,97.419,First Class,18/03/2021,Credit card,9.80
+401-09-4232,Member,Male,United States,Lake Elsinore,California,92530,Home and lifestyle,5,21.6725,455.1225,Standard Class,19/03/2021,Ewallet,9.40
+751-15-6198,Normal,Male,United States,San Diego,California,92105,Sports and travel,6,6.903,144.963,First Class,20/03/2021,Ewallet,7.90
+324-41-6833,Member,Female,United States,San Diego,California,92105,Electronic accessories,8,12.08,253.68,First Class,21/03/2021,Ewallet,5.10
+474-33-8305,Member,Male,United States,New York City,New York,10024,Fashion accessories,7,23.5865,495.3165,Second Class,22/03/2021,Ewallet,6.90
+759-29-9521,Member,Female,United States,Monroe,Louisiana,71203,Fashion accessories,9,22.032,462.672,Standard Class,23/03/2021,Cash,8.00
+831-81-6575,Member,Female,United States,San Francisco,California,94122,Electronic accessories,9,34.0155,714.3255,First Class,24/03/2021,Cash,
+220-68-6701,Normal,Female,United States,Denver,Colorado,80219,Home and lifestyle,4,15.494,325.374,Standard Class,25/03/2021,Cash,4.20
+618-34-8551,Normal,Female,United States,Denver,Colorado,80219,Sports and travel,2,9.318,195.678,Standard Class,26/03/2021,Credit card,8.50
+257-60-7754,Normal,Female,United States,Omaha,Nebraska,68104,Electronic accessories,4,10.046,210.966,First Class,27/03/2021,Cash,9.00
+559-61-5987,Normal,Female,United States,Omaha,Nebraska,68104,Health and beauty,1,0.8875,18.6375,First Class,28/03/2021,Cash,8.60
+189-55-2313,Normal,Female,United States,Edmonds,Washington,98026,Fashion accessories,10,31.09,652.89,First Class,29/03/2021,Ewallet,6.00
+565-91-4567,Normal,Male,United States,Edmonds,Washington,98026,Health and beauty,8,4.3,90.3,First Class,30/03/2021,Ewallet,6.20
+380-60-5336,Normal,Female,United States,Edmonds,Washington,98026,Electronic accessories,10,20.13,422.73,First Class,31/03/2021,Credit card,5.00
+815-04-6282,Member,Female,United States,Edmonds,Washington,98026,Sports and travel,5,16.2425,341.0925,First Class,01/04/2021,Credit card,6.50
+674-56-6360,Normal,Male,United States,Santa Ana,California,92704,Electronic accessories,1,4.7575,99.9075,Same Day,02/04/2021,Cash,6.00
+778-34-2523,Member,Female,United States,Santa Ana,California,92704,Electronic accessories,8,19.448,408.408,Same Day,03/04/2021,Cash,5.00
+499-27-7781,Normal,Female,United States,Milwaukee,Wisconsin,53209,Food and beverages,8,21.284,446.964,First Class,04/04/2021,Ewallet,5.00
+477-59-2456,Normal,Female,United States,Philadelphia,Pennsylvania,19140,Fashion accessories,7,15.904,333.984,Standard Class,05/04/2021,Cash,9.20
+832-51-6761,Normal,Male,United States,Philadelphia,Pennsylvania,19140,Food and beverages,8,13.552,284.592,Standard Class,06/04/2021,Ewallet,9.60
+869-11-3082,Member,Male,United States,Philadelphia,Pennsylvania,19140,Health and beauty,4,19.232,403.872,Standard Class,07/04/2021,Credit card,8.40
+190-59-3964,Member,Male,United States,Philadelphia,Pennsylvania,19140,Food and beverages,5,11.79,247.59,Standard Class,08/04/2021,Credit card,6.00
+366-43-6862,Normal,Male,United States,Philadelphia,Pennsylvania,19140,Electronic accessories,4,10.578,222.138,Standard Class,09/04/2021,Ewallet,6.70
+186-43-8965,Member,Female,United States,Philadelphia,Pennsylvania,19140,Home and lifestyle,2,4.768,100.128,Standard Class,10/04/2021,Credit card,4.10
+784-21-9238,Member,Male,United States,Belleville,New Jersey,7109,Sports and travel,1,0.5085,10.6785,Standard Class,11/04/2021,Cash,5.90
+276-75-6884,Normal,Female,United States,Belleville,New Jersey,7109,Health and beauty,3,10.3065,216.4365,Standard Class,12/04/2021,Cash,8.70
+109-86-4363,Member,Female,United States,San Francisco,California,94110,Sports and travel,7,21.028,441.588,Standard Class,13/04/2021,Credit card,4.50
+569-76-2760,Member,Female,United States,San Francisco,California,94110,Sports and travel,4,4.402,92.442,Standard Class,14/04/2021,Credit card,6.60
+222-42-0244,Member,Female,United States,Lakeville,Minnesota,55044,Health and beauty,9,32.4495,681.4395,Standard Class,15/04/2021,Credit card,7.70
+760-53-9233,Member,Male,United States,Lakeville,Minnesota,55044,Fashion accessories,3,6.192,130.032,Standard Class,16/04/2021,Credit card,8.50
+538-22-0304,Normal,Male,United States,Lakeville,Minnesota,55044,Electronic accessories,10,32.475,681.975,Standard Class,17/04/2021,Cash,5.20
+416-17-9926,Member,Female,United States,Florence,Kentucky,41042,Electronic accessories,10,37.11,779.31,Second Class,18/04/2021,Credit card,
+237-44-6163,Normal,Male,United States,Florence,Kentucky,41042,Electronic accessories,8,4.224,88.704,Second Class,19/04/2021,Cash,7.60
+636-17-0325,Normal,Male,United States,Florence,Kentucky,41042,Health and beauty,4,12.514,262.794,Second Class,20/04/2021,Cash,9.50
+343-75-9322,Member,Female,United States,Florence,Kentucky,41042,Sports and travel,8,4.74,99.54,Second Class,21/04/2021,Cash,
+528-14-9470,Member,Male,United States,Tampa,Florida,33614,Health and beauty,1,4.565,95.865,Standard Class,22/04/2021,Ewallet,9.20
+427-45-9297,Member,Female,United States,Tampa,Florida,33614,Home and lifestyle,7,14.2555,299.3655,Standard Class,23/04/2021,Ewallet,5.40
+807-34-3742,Normal,Male,United States,Tampa,Florida,33614,Fashion accessories,1,2.619,54.999,Standard Class,24/04/2021,Cash,
+288-62-1085,Member,Male,United States,Tyler,Texas,75701,Fashion accessories,5,9.635,202.335,Second Class,25/04/2021,Ewallet,5.60
+670-71-7306,Normal,Male,United States,Columbia,Tennessee,38401,Sports and travel,6,13.389,281.169,Standard Class,26/04/2021,Credit card,5.10
+660-29-7083,Normal,Male,United States,Fort Worth,Texas,76106,Electronic accessories,10,27.935,586.635,Standard Class,27/04/2021,Cash,
+271-77-8740,Member,Female,United States,New York City,New York,10035,Sports and travel,6,8.766,184.086,Standard Class,28/04/2021,Ewallet,
+497-36-0989,Normal,Male,United States,New York City,New York,10035,Fashion accessories,3,7.791,163.611,Standard Class,29/04/2021,Cash,
+291-59-1384,Normal,Male,United States,New York City,New York,10035,Electronic accessories,1,3.015,63.315,Standard Class,30/04/2021,Cash,6.00
+860-73-6466,Member,Female,United States,Los Angeles,California,90036,Sports and travel,2,3.947,82.887,First Class,01/05/2021,Credit card,
+549-23-9016,Member,Female,United States,Los Angeles,California,90036,Food and beverages,2,1.487,31.227,First Class,02/05/2021,Credit card,8.90
+896-34-0956,Normal,Male,United States,Los Angeles,California,90036,Fashion accessories,1,1.066,22.386,First Class,03/05/2021,Cash,5.90
+804-38-3935,Member,Male,United States,Los Angeles,California,90036,Electronic accessories,3,14.067,295.407,First Class,04/05/2021,Cash,5.90
+585-90-0249,Member,Male,United States,Louisville,Kentucky,40214,Electronic accessories,1,3.663,76.923,Standard Class,05/05/2021,Ewallet,9.70
+862-29-5914,Normal,Female,United States,Louisville,Kentucky,40214,Sports and travel,1,1.119,23.499,Standard Class,06/05/2021,Credit card,8.60
+845-94-6841,Member,Female,United States,Lorain,Ohio,44052,Food and beverages,9,32.796,688.716,Standard Class,07/05/2021,Cash,4.00
+125-45-2293,Normal,Female,United States,Linden,New Jersey,7036,Fashion accessories,6,29.73,624.33,Standard Class,08/05/2021,Cash,4.20
+843-73-4724,Normal,Male,United States,Salinas,California,93905,Fashion accessories,1,3.705,77.805,Second Class,09/05/2021,Cash,9.20
+409-33-9708,Normal,Female,United States,Salinas,California,93905,Fashion accessories,2,9.848,206.808,Second Class,10/05/2021,Ewallet,9.20
+658-66-3967,Normal,Male,United States,Jackson,Mississippi,39212,Health and beauty,7,18.6165,390.9465,Standard Class,11/05/2021,Ewallet,5.00
+866-70-2814,Normal,Female,United States,New York City,New York,10035,Electronic accessories,10,26.395,554.295,Standard Class,12/05/2021,Ewallet,10.00
+160-22-2687,Member,Female,United States,New York City,New York,10035,Health and beauty,5,23.9875,503.7375,Standard Class,13/05/2021,Ewallet,8.80
+895-03-6665,Normal,Female,United States,New York City,New York,10035,Fashion accessories,9,16.4295,345.0195,Standard Class,14/05/2021,Cash,4.20
+770-42-8960,Normal,Male,United States,New York City,New York,10035,Food and beverages,8,8.448,177.408,Standard Class,15/05/2021,Cash,6.30
+748-45-2862,Member,Female,United States,New York City,New York,10035,Home and lifestyle,4,5.662,118.902,Standard Class,16/05/2021,Cash,8.20
+234-36-2483,Normal,Male,United States,New Brunswick,New Jersey,8901,Health and beauty,6,17.277,362.817,Standard Class,17/05/2021,Cash,5.10
+316-66-3011,Member,Female,United States,New Brunswick,New Jersey,8901,Food and beverages,9,21.4335,450.1035,Standard Class,18/05/2021,Cash,5.00
+848-95-6252,Member,Female,United States,San Francisco,California,94122,Home and lifestyle,1,4.3135,90.5835,Standard Class,19/05/2021,Ewallet,7.00
+840-76-5966,Member,Male,United States,San Francisco,California,94122,Sports and travel,2,1.276,26.796,Standard Class,20/05/2021,Ewallet,7.80
+152-03-4217,Normal,Female,United States,Jacksonville,Florida,32216,Home and lifestyle,9,5.076,106.596,Second Class,21/05/2021,Credit card,4.30
+533-66-5566,Normal,Female,United States,Jacksonville,Florida,32216,Home and lifestyle,7,17.8745,375.3645,Second Class,22/05/2021,Cash,7.00
+124-31-1458,Member,Female,United States,Jacksonville,Florida,32216,Electronic accessories,3,11.9385,250.7085,Second Class,23/05/2021,Cash,6.60
+176-78-1170,Member,Male,United States,Springfield,Virginia,22153,Health and beauty,3,5.0715,106.5015,Standard Class,24/05/2021,Ewallet,7.30
+361-59-0574,Member,Male,United States,Springfield,Virginia,22153,Sports and travel,8,36.212,760.452,Standard Class,25/05/2021,Credit card,6.50
+101-81-4070,Member,Female,United States,Philadelphia,Pennsylvania,19140,Health and beauty,2,6.282,131.922,First Class,26/05/2021,Ewallet,4.90
+631-34-1880,Member,Male,United States,Lancaster,Pennsylvania,17602,Food and beverages,3,3.6465,76.5765,Standard Class,27/05/2021,Credit card,4.30
+852-82-2749,Normal,Male,United States,Philadelphia,Pennsylvania,19143,Sports and travel,4,12.918,271.278,First Class,28/05/2021,Ewallet,9.30
+873-14-6353,Member,Male,United States,Philadelphia,Pennsylvania,19143,Food and beverages,7,8.687,182.427,First Class,29/05/2021,Credit card,7.10
+584-66-4073,Normal,Male,United States,Concord,New Hampshire,3301,Fashion accessories,1,2.825,59.325,First Class,30/05/2021,Ewallet,9.60
+544-55-9589,Member,Female,United States,New York City,New York,10009,Electronic accessories,10,10.715,225.015,Standard Class,31/05/2021,Cash,6.20
+166-19-2553,Member,Male,United States,New York City,New York,10009,Sports and travel,6,26.718,561.078,Standard Class,01/06/2021,Cash,9.90
+737-88-5876,Member,Male,United States,Charlotte,North Carolina,28205,Home and lifestyle,4,4.658,97.818,Standard Class,02/06/2021,Credit card,5.90
+154-87-7367,Normal,Male,United States,Concord,New Hampshire,3301,Home and lifestyle,8,26.104,548.184,Standard Class,03/06/2021,Ewallet,6.30
+885-56-0389,Member,Male,United States,Concord,New Hampshire,3301,Fashion accessories,1,2.6175,54.9675,Standard Class,04/06/2021,Cash,4.00
+608-05-3804,Member,Male,United States,Concord,New Hampshire,3301,Electronic accessories,1,1.9875,41.7375,Standard Class,05/06/2021,Cash,6.10
+448-61-3783,Normal,Female,United States,Philadelphia,Pennsylvania,19120,Electronic accessories,8,36.008,756.168,Standard Class,06/06/2021,Credit card,4.50
+761-49-0439,Member,Female,United States,New York City,New York,10024,Electronic accessories,8,4.84,101.64,Second Class,07/06/2021,Ewallet,8.60
+490-95-0021,Member,Female,United States,New York City,New York,10024,Food and beverages,10,16.605,348.705,Second Class,08/06/2021,Ewallet,6.00
+115-38-7388,Member,Female,United States,Springfield,Virginia,22153,Fashion accessories,8,4.072,85.512,Standard Class,09/06/2021,Credit card,9.50
+311-13-6971,Member,Male,United States,San Francisco,California,94109,Sports and travel,10,15.995,335.895,Same Day,10/06/2021,Credit card,9.90
+291-55-6563,Member,Female,United States,Detroit,Michigan,48227,Home and lifestyle,6,10.326,216.846,First Class,11/06/2021,Ewallet,7.50
+548-48-3156,Member,Female,United States,Rochester,New York,14609,Food and beverages,2,8.334,175.014,Standard Class,12/06/2021,Cash,7.60
+460-93-5834,Normal,Male,United States,Los Angeles,California,90045,Sports and travel,7,15.953,335.013,Second Class,13/06/2021,Cash,5.00
+325-89-4209,Member,Male,United States,San Diego,California,92105,Food and beverages,1,4.395,92.295,Standard Class,14/06/2021,Cash,6.70
+884-80-6021,Member,Female,United States,Columbia,Maryland,21044,Electronic accessories,10,36.735,771.435,Standard Class,15/06/2021,Ewallet,9.50
+137-74-8729,Normal,Female,United States,San Francisco,California,94122,Fashion accessories,8,4.876,102.396,Standard Class,16/06/2021,Ewallet,6.80
+880-46-5796,Member,Male,United States,New Rochelle,New York,10801,Sports and travel,10,38.46,807.66,Standard Class,17/06/2021,Ewallet,5.60
+389-70-2397,Normal,Female,United States,New Rochelle,New York,10801,Health and beauty,5,20.915,439.215,Standard Class,18/06/2021,Cash,7.20
+114-35-5271,Normal,Female,United States,Detroit,Michigan,48227,Electronic accessories,8,23.164,486.444,First Class,19/06/2021,Cash,8.10
+607-76-6216,Member,Female,United States,Detroit,Michigan,48227,Fashion accessories,5,23.1225,485.5725,First Class,20/06/2021,Credit card,8.60
+715-20-1673,Normal,Male,United States,Detroit,Michigan,48227,Electronic accessories,5,7.095,148.995,First Class,21/06/2021,Cash,9.40
+811-35-1094,Member,Male,United States,San Francisco,California,94122,Electronic accessories,6,15.135,317.835,First Class,22/06/2021,Credit card,8.90
+699-88-1972,Normal,Male,United States,San Francisco,California,94122,Health and beauty,8,39.664,832.944,First Class,23/06/2021,Credit card,4.20
+781-84-8059,Normal,Male,United States,Houston,Texas,77095,Fashion accessories,7,21.259,446.439,Second Class,24/06/2021,Ewallet,5.00
+409-49-6995,Member,Female,United States,Detroit,Michigan,48227,Food and beverages,6,14.181,297.801,Standard Class,25/06/2021,Cash,8.80
+725-54-0677,Member,Male,United States,Auburn,New York,13021,Health and beauty,7,29.96,629.16,Second Class,26/06/2021,Cash,5.30
+146-09-5432,Member,Male,United States,Springfield,Ohio,45503,Food and beverages,9,15.768,331.128,First Class,27/06/2021,Ewallet,4.60
+377-79-7592,Member,Female,United States,Garland,Texas,75043,Electronic accessories,9,20.178,423.738,First Class,28/06/2021,Credit card,7.50
+509-10-0516,Normal,Male,United States,Garland,Texas,75043,Home and lifestyle,4,9.194,193.074,First Class,29/06/2021,Ewallet,5.10
+595-94-9924,Member,Female,United States,Chicago,Illinois,60653,Health and beauty,5,6.9325,145.5825,First Class,30/06/2021,Credit card,4.20
+865-41-9075,Normal,Male,United States,Los Angeles,California,90032,Food and beverages,7,4.0355,84.7455,Standard Class,01/07/2021,Cash,8.10
+545-07-8534,Normal,Female,United States,Los Angeles,California,90032,Health and beauty,2,5.832,122.472,Standard Class,02/07/2021,Ewallet,6.00
+118-62-1812,Member,Female,United States,Los Angeles,California,90032,Home and lifestyle,4,15.676,329.196,Standard Class,03/07/2021,Cash,7.90
+450-42-3339,Normal,Male,United States,New York City,New York,10009,Health and beauty,10,42.305,888.405,Standard Class,04/07/2021,Credit card,8.80
+851-98-3555,Normal,Female,United States,New York City,New York,10009,Health and beauty,5,20.72,435.12,Standard Class,05/07/2021,Credit card,6.60
+186-71-5196,Member,Female,United States,New York City,New York,10009,Food and beverages,2,7.954,167.034,Standard Class,06/07/2021,Ewallet,6.20
+624-01-8356,Normal,Female,United States,Jackson,Michigan,49201,Home and lifestyle,10,24.505,514.605,Standard Class,07/07/2021,Credit card,4.20
+313-66-9943,Member,Female,United States,Jackson,Michigan,49201,Food and beverages,3,4.3725,91.8225,Standard Class,08/07/2021,Credit card,7.30
+151-27-8496,Normal,Female,United States,Jackson,Michigan,49201,Electronic accessories,4,11.226,235.746,Standard Class,09/07/2021,Ewallet,8.60
+453-33-6436,Normal,Female,United States,Norwich,Connecticut,6360,Home and lifestyle,8,37.248,782.208,Standard Class,10/07/2021,Cash,6.80
+522-57-8364,Member,Male,United States,Milwaukee,Wisconsin,53209,Fashion accessories,8,20.536,431.256,First Class,11/07/2021,Ewallet,7.60
+459-45-2396,Member,Female,United States,Milwaukee,Wisconsin,53209,Food and beverages,3,14.94,313.74,First Class,12/07/2021,Cash,5.80
+717-96-4189,Normal,Female,United States,San Antonio,Texas,78207,Electronic accessories,6,10.647,223.587,Standard Class,13/07/2021,Cash,4.10
+722-13-2115,Member,Male,United States,San Antonio,Texas,78207,Sports and travel,1,2.1425,44.9925,Standard Class,14/07/2021,Credit card,9.30
+749-81-8133,Normal,Female,United States,San Antonio,Texas,78207,Fashion accessories,4,18.934,397.614,Standard Class,15/07/2021,Cash,6.80
+777-67-2495,Normal,Male,United States,Dallas,Texas,75220,Home and lifestyle,3,10.3455,217.2555,Standard Class,16/07/2021,Ewallet,8.70
+636-98-3364,Member,Female,United States,Dallas,Texas,75220,Electronic accessories,3,3.939,82.719,Standard Class,17/07/2021,Ewallet,6.30
+246-55-6923,Member,Female,United States,Alexandria,Virginia,22304,Home and lifestyle,9,16.1055,338.2155,Standard Class,18/07/2021,Credit card,5.10
+181-82-6255,Normal,Female,United States,New York City,New York,10009,Home and lifestyle,6,4.911,103.131,Standard Class,19/07/2021,Cash,7.00
+838-02-1821,Member,Female,United States,New York City,New York,10009,Home and lifestyle,2,1.273,26.733,Standard Class,20/07/2021,Credit card,5.20
+887-42-0517,Normal,Female,United States,New York City,New York,10009,Sports and travel,7,29.099,611.079,Standard Class,21/07/2021,Credit card,6.60
+457-12-0244,Member,Female,United States,New York City,New York,10011,Sports and travel,6,10.566,221.886,Standard Class,22/07/2021,Ewallet,6.50
+226-34-0034,Normal,Female,United States,Philadelphia,Pennsylvania,19143,Electronic accessories,4,2.756,57.876,First Class,23/07/2021,Ewallet,9.00
+321-49-7382,Member,Male,United States,Philadelphia,Pennsylvania,19143,Sports and travel,1,4.4155,92.7255,First Class,24/07/2021,Cash,5.20
+397-25-8725,Member,Female,United States,Springfield,Virginia,22153,Health and beauty,9,17.829,374.409,Standard Class,25/07/2021,Ewallet,6.80
+431-66-2305,Normal,Female,United States,Springfield,Virginia,22153,Electronic accessories,9,39.7125,833.9625,Standard Class,26/07/2021,Credit card,7.60
+825-94-5922,Normal,Male,United States,Toledo,Ohio,43615,Sports and travel,2,2.531,53.151,First Class,27/07/2021,Ewallet,7.20
+641-62-7288,Normal,Male,United States,Toledo,Ohio,43615,Home and lifestyle,6,29.976,629.496,First Class,28/07/2021,Ewallet,7.10
+756-93-1854,Member,Female,United States,Toledo,Ohio,43615,Fashion accessories,2,8.335,175.035,First Class,29/07/2021,Credit card,9.50
+243-55-8457,Normal,Female,United States,Philadelphia,Pennsylvania,19140,Food and beverages,10,37.22,781.62,Standard Class,30/07/2021,Ewallet,5.10
+458-10-8612,Normal,Male,United States,Philadelphia,Pennsylvania,19120,Health and beauty,7,22.428,470.988,Standard Class,31/07/2021,Ewallet,7.60
+501-61-1753,Normal,Female,United States,Philadelphia,Pennsylvania,19120,Home and lifestyle,6,18.945,397.845,Standard Class,01/08/2021,Ewallet,9.80
+235-06-8510,Member,Male,United States,Philadelphia,Pennsylvania,19120,Home and lifestyle,3,12.858,270.018,Standard Class,02/08/2021,Ewallet,5.10
+433-08-7822,Normal,Female,United States,Philadelphia,Pennsylvania,19120,Health and beauty,7,27.6115,579.8415,Standard Class,03/08/2021,Ewallet,7.50
+361-85-2571,Normal,Female,United States,Farmington,New Mexico,87401,Sports and travel,5,22.37,469.77,First Class,04/08/2021,Cash,7.40
+131-70-8179,Member,Female,United States,Riverside,California,92503,Health and beauty,3,13.8135,290.0835,Standard Class,05/08/2021,Cash,4.20
+500-02-2261,Normal,Female,United States,Riverside,California,92503,Food and beverages,6,17.187,360.927,Standard Class,06/08/2021,Ewallet,5.90
+720-72-2436,Normal,Male,United States,San Francisco,California,94110,Food and beverages,4,13.304,279.384,First Class,07/08/2021,Ewallet,6.90
+702-83-5291,Member,Male,United States,Torrance,California,90503,Fashion accessories,9,44.919,943.299,Standard Class,08/08/2021,Cash,6.60
+809-69-9497,Normal,Female,United States,Torrance,California,90503,Home and lifestyle,10,22.84,479.64,Standard Class,09/08/2021,Ewallet,5.70
+449-16-6770,Normal,Male,United States,Seattle,Washington,98105,Health and beauty,5,12.6975,266.6475,Standard Class,10/08/2021,Credit card,5.30
+333-23-2632,Member,Male,United States,Seattle,Washington,98105,Health and beauty,7,3.528,74.088,Standard Class,11/08/2021,Cash,4.20
+489-82-1237,Normal,Female,United States,Seattle,Washington,98105,Electronic accessories,7,32.858,690.018,Standard Class,12/08/2021,Credit card,7.30
+859-97-6048,Member,Male,United States,Mesa,Arizona,85204,Electronic accessories,2,8.425,176.925,First Class,13/08/2021,Credit card,5.30
+676-10-2200,Member,Male,United States,Philadelphia,Pennsylvania,19120,Fashion accessories,1,2.689,56.469,Standard Class,14/08/2021,Ewallet,4.70
+373-88-1424,Member,Male,United States,Philadelphia,Pennsylvania,19120,Home and lifestyle,5,8.9525,188.0025,Standard Class,15/08/2021,Ewallet,7.90
+365-16-4334,Normal,Female,United States,Philadelphia,Pennsylvania,19120,Food and beverages,8,10.572,222.012,Standard Class,16/08/2021,Ewallet,8.90
+503-21-4385,Member,Male,United States,Philadelphia,Pennsylvania,19120,Health and beauty,3,5.9865,125.7165,Standard Class,17/08/2021,Ewallet,9.30
+305-89-2768,Member,Female,United States,Philadelphia,Pennsylvania,19120,Home and lifestyle,3,3.285,68.985,Standard Class,18/08/2021,Ewallet,4.70
+574-80-1489,Member,Female,United States,Philadelphia,Pennsylvania,19143,Food and beverages,4,12.57,263.97,Standard Class,19/08/2021,Ewallet,8.70
+784-08-0310,Member,Female,United States,Round Rock,Texas,78664,Food and beverages,4,4.208,88.368,Standard Class,20/08/2021,Cash,7.60
+200-40-6154,Member,Male,United States,Round Rock,Texas,78664,Home and lifestyle,6,19.773,415.233,Standard Class,21/08/2021,Cash,5.70
+846-10-0341,Normal,Female,United States,Jackson,Mississippi,39212,Fashion accessories,7,14.8995,312.8895,Standard Class,22/08/2021,Cash,6.80
+577-34-7579,Member,Male,United States,Phoenix,Arizona,85023,Food and beverages,9,22.7205,477.1305,Second Class,23/08/2021,Ewallet,5.40
+430-02-3888,Normal,Male,United States,Phoenix,Arizona,85023,Electronic accessories,6,13.806,289.926,Second Class,24/08/2021,Cash,7.10
+867-47-1948,Normal,Female,United States,Phoenix,Arizona,85023,Home and lifestyle,10,7.9,165.9,Second Class,25/08/2021,Cash,7.80
+384-59-6655,Member,Female,United States,Oceanside,California,92054,Food and beverages,9,44.397,932.337,Same Day,26/08/2021,Cash,8.40
+256-58-3609,Member,Male,United States,San Francisco,California,94110,Fashion accessories,1,4.599,96.579,Standard Class,27/08/2021,Ewallet,9.80
+324-92-3863,Member,Male,United States,Fayetteville,Arkansas,72701,Electronic accessories,2,2.089,43.869,Standard Class,28/08/2021,Cash,
+593-08-5916,Normal,Female,United States,San Francisco,California,94110,Fashion accessories,1,0.775,16.275,First Class,29/08/2021,Credit card,7.40
+364-34-2972,Member,Male,United States,Boca Raton,Florida,33433,Electronic accessories,3,14.523,304.983,Second Class,30/08/2021,Cash,6.70
+794-42-3736,Normal,Male,United States,New York City,New York,10011,Food and beverages,2,3.333,69.993,First Class,31/08/2021,Credit card,6.40
+172-42-8274,Normal,Female,United States,New York City,New York,10011,Electronic accessories,2,3.827,80.367,First Class,01/09/2021,Credit card,5.80
+558-60-5016,Normal,Female,United States,New York City,New York,10011,Home and lifestyle,9,14.985,314.685,First Class,02/09/2021,Ewallet,
+195-06-0432,Member,Male,United States,New York City,New York,10011,Home and lifestyle,3,12.1515,255.1815,First Class,03/09/2021,Credit card,9.30
+605-03-2706,Normal,Female,United States,New York City,New York,10011,Health and beauty,3,2.37,49.77,First Class,04/09/2021,Cash,9.50
+214-30-2776,Member,Female,United States,New York City,New York,10011,Electronic accessories,5,8.6225,181.0725,First Class,05/09/2021,Credit card,
+746-04-1077,Member,Female,United States,Philadelphia,Pennsylvania,19134,Food and beverages,10,42.315,888.615,Second Class,06/09/2021,Credit card,9.00
+448-34-8700,Member,Male,United States,Philadelphia,Pennsylvania,19134,Home and lifestyle,7,12.9185,271.2885,Second Class,07/09/2021,Ewallet,6.70
+452-04-8808,Normal,Male,United States,Philadelphia,Pennsylvania,19134,Electronic accessories,7,30.478,640.038,Second Class,08/09/2021,Cash,5.50
+531-56-4728,Normal,Male,United States,Philadelphia,Pennsylvania,19134,Home and lifestyle,3,12.012,252.252,Second Class,09/09/2021,Cash,5.40
+744-82-9138,Normal,Male,United States,New York City,New York,10011,Fashion accessories,2,8.613,180.873,Second Class,10/09/2021,Cash,8.20
+883-69-1285,Member,Male,United States,New York City,New York,10011,Fashion accessories,2,4.992,104.832,Second Class,11/09/2021,Credit card,7.00
+221-25-5073,Normal,Female,United States,Portland,Oregon,97206,Food and beverages,4,14.932,313.572,Standard Class,12/09/2021,Cash,
+518-71-6847,Member,Male,United States,Detroit,Michigan,48205,Food and beverages,6,7.98,167.58,First Class,13/09/2021,Ewallet,4.90
+156-20-0370,Normal,Female,United States,Wilmington,North Carolina,28403,Electronic accessories,1,1.2725,26.7225,First Class,14/09/2021,Credit card,5.10
+151-33-7434,Normal,Female,United States,Columbus,Indiana,47201,Food and beverages,1,3.3885,71.1585,First Class,15/09/2021,Credit card,6.50
+728-47-9078,Member,Male,United States,New York City,New York,10035,Food and beverages,4,11.918,250.278,Standard Class,16/09/2021,Cash,9.80
+809-46-1866,Normal,Male,United States,Louisville,Colorado,80027,Health and beauty,4,11.63,244.23,Second Class,17/09/2021,Cash,8.40
+139-32-4183,Member,Female,United States,Louisville,Colorado,80027,Sports and travel,9,43.866,921.186,Second Class,18/09/2021,Ewallet,
+148-41-7930,Normal,Male,United States,Louisville,Colorado,80027,Health and beauty,7,34.986,734.706,Second Class,19/09/2021,Cash,6.10
+189-40-5216,Normal,Male,United States,Pasadena,Texas,77506,Electronic accessories,7,33.7295,708.3195,Standard Class,20/09/2021,Cash,6.00
+374-38-5555,Normal,Female,United States,Pasadena,Texas,77506,Fashion accessories,5,15.9275,334.4775,Standard Class,21/09/2021,Ewallet,8.50
+764-44-8999,Normal,Female,United States,Pasadena,Texas,77506,Health and beauty,2,1.476,30.996,Standard Class,22/09/2021,Ewallet,4.30
+552-44-5977,Member,Male,United States,Houston,Texas,77041,Health and beauty,8,24.8,520.8,Same Day,23/09/2021,Credit card,
+267-62-7380,Member,Male,United States,Auburn,New York,13021,Electronic accessories,10,41.17,864.57,Standard Class,24/09/2021,Ewallet,4.30
+430-53-4718,Member,Male,United States,Auburn,New York,13021,Health and beauty,8,30.148,633.108,Standard Class,25/09/2021,Cash,8.40
+886-18-2897,Normal,Female,United States,Jacksonville,Florida,32216,Food and beverages,5,14.14,296.94,Second Class,26/09/2021,Ewallet,4.50
+602-16-6955,Normal,Female,United States,New York City,New York,10024,Sports and travel,10,38.3,804.3,First Class,27/09/2021,Ewallet,6.00
+745-74-0715,Normal,Male,United States,San Jose,California,95123,Electronic accessories,2,5.803,121.863,First Class,28/09/2021,Ewallet,8.80
+690-01-6631,Normal,Male,United States,San Jose,California,95123,Fashion accessories,10,8.745,183.645,First Class,29/09/2021,Cash,6.60
+652-49-6720,Member,Female,United States,Virginia Beach,Virginia,23464,Electronic accessories,1,3.0475,63.9975,Standard Class,30/09/2021,Ewallet,5.90
+233-67-5758,Normal,Male,United States,Virginia Beach,Virginia,23464,Health and beauty,1,2.0175,42.3675,Standard Class,01/10/2021,Ewallet,6.20
+303-96-2227,Normal,Female,United States,Henderson,Kentucky,42420,Home and lifestyle,10,48.69,1022.49,Standard Class,02/10/2021,Ewallet,4.40
+727-02-1313,Member,Male,United States,Henderson,Kentucky,42420,Food and beverages,1,1.592,33.432,Standard Class,03/10/2021,Cash,7.70
+347-56-2442,Normal,Male,United States,Henderson,Kentucky,42420,Home and lifestyle,1,3.291,69.111,Standard Class,04/10/2021,Cash,4.10
+849-09-3807,Member,Female,United States,Henderson,Kentucky,42420,Fashion accessories,7,30.919,649.299,Standard Class,05/10/2021,Cash,6.60
